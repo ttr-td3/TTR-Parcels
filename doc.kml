@@ -4274,5 +4274,406 @@
         </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
+    <kml:Style id="EASEMENT">
+      <kml:IconStyle>
+        <kml:Icon />
+      </kml:IconStyle>
+      <kml:LabelStyle>
+        <kml:scale>0</kml:scale>
+      </kml:LabelStyle>
+      <kml:LineStyle>
+        <kml:color>ffffffff</kml:color>
+        <kml:width>2</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>5fffffff</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:Style id="MOC">
+      <kml:IconStyle>
+        <kml:Icon />
+      </kml:IconStyle>
+      <kml:LabelStyle>
+        <kml:scale>0</kml:scale>
+      </kml:LabelStyle>
+      <kml:LineStyle>
+        <kml:color>ffff0000</kml:color>
+        <kml:width>2</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>720000ff</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:Style id="MOC_hlt">
+      <kml:IconStyle>
+        <kml:Icon />
+      </kml:IconStyle>
+      <kml:LineStyle>
+        <kml:color>ffff0000</kml:color>
+        <kml:width>2</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>720000ff</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:Style id="NSMOC">
+      <kml:IconStyle>
+        <kml:Icon />
+      </kml:IconStyle>
+      <kml:LabelStyle>
+        <kml:scale>0</kml:scale>
+      </kml:LabelStyle>
+      <kml:LineStyle>
+        <kml:color>ff0000ff</kml:color>
+        <kml:width>2</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>94635efc</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:Style id="NSMOC_hlt">
+      <kml:IconStyle>
+        <kml:Icon />
+      </kml:IconStyle>
+      <kml:LineStyle>
+        <kml:color>ff0000ff</kml:color>
+        <kml:width>2</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>94635efc</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:Style id="ROW">
+      <kml:IconStyle>
+        <kml:Icon />
+      </kml:IconStyle>
+      <kml:LabelStyle>
+        <kml:scale>0</kml:scale>
+      </kml:LabelStyle>
+      <kml:LineStyle>
+        <kml:color>ff0080ff</kml:color>
+        <kml:width>2</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>c6000080</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:Style id="ROW_hlt">
+      <kml:IconStyle>
+        <kml:Icon />
+      </kml:IconStyle>
+      <kml:LineStyle>
+        <kml:color>ff0080ff</kml:color>
+        <kml:width>2</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>ff000080</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:Style id="NoPermission">
+      <kml:IconStyle>
+        <kml:Icon />
+      </kml:IconStyle>
+      <kml:LabelStyle>
+        <kml:scale>0</kml:scale>
+      </kml:LabelStyle>
+      <kml:LineStyle>
+        <kml:color>ffff0000</kml:color>
+        <kml:width>2</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>720000ff</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:Style id="NoPermission_hlt">
+      <kml:IconStyle>
+        <kml:Icon />
+      </kml:IconStyle>
+      <kml:LineStyle>
+        <kml:color>ffff0000</kml:color>
+        <kml:width>4</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>720000ff</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:Style id="Permission">
+      <kml:IconStyle>
+        <kml:Icon />
+      </kml:IconStyle>
+      <kml:LabelStyle>
+        <kml:scale>0</kml:scale>
+      </kml:LabelStyle>
+      <kml:LineStyle>
+        <kml:color>ffff0000</kml:color>
+        <kml:width>2</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>5fff0000</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:Style id="Permission_hlt">
+      <kml:IconStyle>
+        <kml:Icon />
+      </kml:IconStyle>
+      <kml:LineStyle>
+        <kml:color>ffff0000</kml:color>
+        <kml:width>4</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>5fff0000</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:Style id="NSNoPermission">
+      <kml:IconStyle>
+        <kml:Icon />
+      </kml:IconStyle>
+      <kml:LabelStyle>
+        <kml:scale>0</kml:scale>
+      </kml:LabelStyle>
+      <kml:LineStyle>
+        <kml:color>ff0000ff</kml:color>
+        <kml:width>2</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>720000ff</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:Style id="NSNoPermission_hlt">
+      <kml:IconStyle>
+        <kml:Icon />
+      </kml:IconStyle>
+      <kml:LineStyle>
+        <kml:color>ff0000ff</kml:color>
+        <kml:width>4</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>720000ff</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:Style id="Submitted">
+      <kml:IconStyle>
+        <kml:Icon />
+      </kml:IconStyle>
+      <kml:LabelStyle>
+        <kml:scale>0</kml:scale>
+      </kml:LabelStyle>
+      <kml:LineStyle>
+        <kml:color>ffff0000</kml:color>
+        <kml:width>2</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>4800ff00</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:Style id="Submitted_hlt">
+      <kml:IconStyle>
+        <kml:Icon />
+      </kml:IconStyle>
+      <kml:LineStyle>
+        <kml:color>ffff0000</kml:color>
+        <kml:width>4</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>4800ff00</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:Style id="WIP">
+      <kml:IconStyle>
+        <kml:Icon />
+      </kml:IconStyle>
+      <kml:LabelStyle>
+        <kml:scale>0</kml:scale>
+      </kml:LabelStyle>
+      <kml:LineStyle>
+        <kml:color>ffff0000</kml:color>
+        <kml:width>2</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>4800ffff</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:Style id="WIP_hlt">
+      <kml:IconStyle>
+        <kml:Icon />
+      </kml:IconStyle>
+      <kml:LineStyle>
+        <kml:color>ffff0000</kml:color>
+        <kml:width>4</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>4800ffff</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:Style id="NSWIP">
+      <kml:IconStyle>
+        <kml:Icon />
+      </kml:IconStyle>
+      <kml:LabelStyle>
+        <kml:scale>0</kml:scale>
+      </kml:LabelStyle>
+      <kml:LineStyle>
+        <kml:color>ff0000ff</kml:color>
+        <kml:width>2</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>4800ffff</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:Style id="NSWIP_hlt">
+      <kml:IconStyle>
+        <kml:Icon />
+      </kml:IconStyle>
+      <kml:LineStyle>
+        <kml:color>ff0000ff</kml:color>
+        <kml:width>4</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>4800ffff</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:Style id="NotSet">
+      <kml:IconStyle>
+        <kml:Icon />
+      </kml:IconStyle>
+      <kml:LabelStyle>
+        <kml:scale>0</kml:scale>
+      </kml:LabelStyle>
+      <kml:LineStyle>
+        <kml:color>ff0000ff</kml:color>
+        <kml:width>2</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>5fff0000</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:Style id="NotSet_hlt">
+      <kml:IconStyle>
+        <kml:Icon />
+      </kml:IconStyle>
+      <kml:LineStyle>
+        <kml:color>ff0000ff</kml:color>
+        <kml:width>4</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>5fff0000</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:StyleMap id="ROW_rollover">
+      <kml:Pair>
+        <kml:key>normal</kml:key>
+        <kml:styleUrl>#ROW</kml:styleUrl>
+      </kml:Pair>
+      <kml:Pair>
+        <kml:key>highlight</kml:key>
+        <kml:styleUrl>#ROW_hlt</kml:styleUrl>
+      </kml:Pair>
+    </kml:StyleMap>
+    <kml:StyleMap id="Submitted_rollover">
+      <kml:Pair>
+        <kml:key>normal</kml:key>
+        <kml:styleUrl>#Submitted</kml:styleUrl>
+      </kml:Pair>
+      <kml:Pair>
+        <kml:key>highlight</kml:key>
+        <kml:styleUrl>#Submitted_hlt</kml:styleUrl>
+      </kml:Pair>
+    </kml:StyleMap>
+    <kml:StyleMap id="MOC_rollover">
+      <kml:Pair>
+        <kml:key>normal</kml:key>
+        <kml:styleUrl>#MOC</kml:styleUrl>
+      </kml:Pair>
+      <kml:Pair>
+        <kml:key>highlight</kml:key>
+        <kml:styleUrl>#MOC_hlt</kml:styleUrl>
+      </kml:Pair>
+    </kml:StyleMap>
+    <kml:StyleMap id="NSMOC_rollover">
+      <kml:Pair>
+        <kml:key>normal</kml:key>
+        <kml:styleUrl>#NSMOC</kml:styleUrl>
+      </kml:Pair>
+      <kml:Pair>
+        <kml:key>highlight</kml:key>
+        <kml:styleUrl>#NSMOC_hlt</kml:styleUrl>
+      </kml:Pair>
+    </kml:StyleMap>
+    <kml:StyleMap id="NoPermission_rollover">
+      <kml:Pair>
+        <kml:key>normal</kml:key>
+        <kml:styleUrl>#NoPermission</kml:styleUrl>
+      </kml:Pair>
+      <kml:Pair>
+        <kml:key>highlight</kml:key>
+        <kml:styleUrl>#NoPermission_hlt</kml:styleUrl>
+      </kml:Pair>
+    </kml:StyleMap>
+    <kml:StyleMap id="Permission_rollover">
+      <kml:Pair>
+        <kml:key>normal</kml:key>
+        <kml:styleUrl>#Permission</kml:styleUrl>
+      </kml:Pair>
+      <kml:Pair>
+        <kml:key>highlight</kml:key>
+        <kml:styleUrl>#Permission_hlt</kml:styleUrl>
+      </kml:Pair>
+    </kml:StyleMap>
+    <kml:StyleMap id="NSWIP_rollover">
+      <kml:Pair>
+        <kml:key>normal</kml:key>
+        <kml:styleUrl>#NSWIP</kml:styleUrl>
+      </kml:Pair>
+      <kml:Pair>
+        <kml:key>highlight</kml:key>
+        <kml:styleUrl>#NSWIP_hlt</kml:styleUrl>
+      </kml:Pair>
+    </kml:StyleMap>
+    <kml:StyleMap id="WIP_rollover">
+      <kml:Pair>
+        <kml:key>normal</kml:key>
+        <kml:styleUrl>#WIP</kml:styleUrl>
+      </kml:Pair>
+      <kml:Pair>
+        <kml:key>highlight</kml:key>
+        <kml:styleUrl>#WIP_hlt</kml:styleUrl>
+      </kml:Pair>
+    </kml:StyleMap>
+    <kml:StyleMap id="NotSet_rollover">
+      <kml:Pair>
+        <kml:key>normal</kml:key>
+        <kml:styleUrl>#NotSet</kml:styleUrl>
+      </kml:Pair>
+      <kml:Pair>
+        <kml:key>highlight</kml:key>
+        <kml:styleUrl>#NotSet_hlt</kml:styleUrl>
+      </kml:Pair>
+    </kml:StyleMap>
+    <kml:StyleMap id="NSNoPermission_rollover">
+      <kml:Pair>
+        <kml:key>normal</kml:key>
+        <kml:styleUrl>#NSNoPermission</kml:styleUrl>
+      </kml:Pair>
+      <kml:Pair>
+        <kml:key>highlight</kml:key>
+        <kml:styleUrl>#NSNoPermission_hlt</kml:styleUrl>
+      </kml:Pair>
+    </kml:StyleMap>
+    <kml:Placemark>
+      <kml:name>108-26-0002 - 9868 FM 226</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.50650773696813,31.4449750841255,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.50960716413567,31.444855970778086,0 -94.50961575809116,31.44516814212984,0 -94.50485497252477,31.445096747743854,0 -94.50485311925978,31.44518745864202,0 -94.50357112439478,31.44513245847586,0 -94.50366918446531,31.44476687251239,0 -94.50960716413567,31.444855970778086,0 -94.50960716413567,31.444855970778086,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
   </kml:Document>
 </kml:kml>
