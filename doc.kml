@@ -106,11 +106,7 @@
       </kml:PolyStyle>
     </kml:Style>
     <!-- Main Folder -->
-    <kml:Folder>
-      <kml:name>East Texas Projects</kml:name>
       <kml:open>1</kml:open>
-      <kml:Folder>
-        <kml:name>TTR</kml:name>
         <kml:Placemark>
           <kml:name>1080142 - 114 Rock Creek</kml:name>
           <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
@@ -1716,8 +1712,6 @@
             </kml:Polygon>
           </kml:MultiGeometry>
         </kml:Placemark>
-      </kml:Folder>
-    </kml:Folder>
     <kml:Placemark>
       <kml:name>108-26-0078 - 5218 SH 7</kml:name>
       <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
