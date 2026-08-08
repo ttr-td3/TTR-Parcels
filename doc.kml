@@ -7867,5 +7867,21 @@
         </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-26-0078 - 5218 SH 7</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates />
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.11352010292597,31.86310519088748,0 -94.11208003329516,31.861554585474558,0 -94.11290257415158,31.86099983007515,0 -94.11432414505525,31.862108929769636,0 -94.11351761123291,31.863106779437867,0 -94.11352010292597,31.86310519088748,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
   </kml:Document>
 </kml:kml>
