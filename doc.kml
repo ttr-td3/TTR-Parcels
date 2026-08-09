@@ -2046,5 +2046,21 @@
         </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-26-0041 - 1988 ALLENTOWN</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.77397460994646,31.4566407390504,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.77474807432802,31.45595329606711,0 -94.77399212109388,31.45749902578137,0 -94.77331001272958,31.457487863009444,0 -94.77378132997767,31.455866635023135,0 -94.7737735692908,31.455806530918505,0 -94.7745877218192,31.455946774471673,0 -94.77474807432802,31.45595329606711,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
   </kml:Document>
 </kml:kml>
