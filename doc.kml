@@ -247,23 +247,6 @@
       <kml:altitudeMode>clampToGround</kml:altitudeMode>
     </kml:Placemark>
     <kml:Placemark>
-      <kml:name>108-25-0033</kml:name>
-      <kml:LookAt>
-        <kml:longitude>-94.64910265999153</kml:longitude>
-        <kml:latitude>31.59504290369956</kml:latitude>
-        <kml:altitude>0</kml:altitude>
-        <kml:heading>0.008543050533028588</kml:heading>
-        <kml:tilt>0</kml:tilt>
-        <kml:range>816.6876378835228</kml:range>
-        <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-      </kml:LookAt>
-      <kml:styleUrl>#m_ylw-pushpin</kml:styleUrl>
-      <kml:Point>
-        <gx:drawOrder>1</gx:drawOrder>
-        <kml:coordinates>-94.64823964431592,31.59621067058154,0</kml:coordinates>
-      </kml:Point>
-    </kml:Placemark>
-    <kml:Placemark>
       <kml:name>108-24-0061</kml:name>
       <kml:open>1</kml:open>
       <kml:styleUrl>#m_ylw-pushpin</kml:styleUrl>
