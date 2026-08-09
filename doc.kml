@@ -1774,5 +1774,21 @@
         </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-26-0014 - 170 CLEAR VIEW L14</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.59601250328416,31.67338622864854,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.59569332214268,31.67315976702883,0 -94.59597472053656,31.6730813705759,0 -94.59631983778726,31.673588159623684,0 -94.59606984287736,31.673712673097434,0 -94.59569332214268,31.67315976702883,0 -94.59569332214268,31.67315976702883,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
   </kml:Document>
 </kml:kml>
