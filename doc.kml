@@ -1822,5 +1822,21 @@
         </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-26-0016 - LOCK AND FREDONIA</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.66884263012642,31.590686331168232,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.66865643323284,31.59070014499519,0 -94.66847469229356,31.590699743528774,0 -94.66906263245804,31.590439215513737,0 -94.66898512445445,31.590878951450392,0 -94.66863467854031,31.59083369642784,0 -94.66865643323284,31.59070014499519,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
   </kml:Document>
 </kml:kml>
