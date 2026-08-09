@@ -1838,5 +1838,21 @@
         </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-26-0017 - 4261 CR 338</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.42136599712859,31.56944439487567,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.42120258740086,31.56896656890262,0 -94.42150798716332,31.569144961474155,0 -94.42189208441994,31.56934156114655,0 -94.42152237004845,31.569905028973736,0 -94.4208544499551,31.56956904092927,0 -94.42120258740086,31.56896656890262,0 -94.42120258740086,31.56896656890262,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
   </kml:Document>
 </kml:kml>
