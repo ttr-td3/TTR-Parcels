@@ -1287,20 +1287,6 @@
       </kml:Point>
     </kml:Placemark>
     <kml:Placemark>
-      <kml:name>108-26-0003</kml:name>
-      <kml:styleUrl>#m_ylw-pushpin</kml:styleUrl>
-      <kml:Polygon>
-        <kml:tessellate>1</kml:tessellate>
-        <kml:outerBoundaryIs>
-          <kml:LinearRing>
-            <kml:coordinates>
-								-94.66492363125617,31.16558473506411,0 -94.66490126955765,31.16258029163211,0 -94.65796818284181,31.16250403489966,0 -94.65796804803877,31.1655719960992,0 -94.66492363125617,31.16558473506411,0
-							</kml:coordinates>
-          </kml:LinearRing>
-        </kml:outerBoundaryIs>
-      </kml:Polygon>
-    </kml:Placemark>
-    <kml:Placemark>
       <kml:name>108-26-0013</kml:name>
       <kml:open>1</kml:open>
       <kml:styleUrl>#m_ylw-pushpin</kml:styleUrl>
