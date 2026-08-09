@@ -1870,5 +1870,21 @@
         </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-26-0024 - 526 BURK</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.66520906014557,31.59815710743563,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.66542727373688,31.598087419074584,0 -94.66540599528618,31.59822491973724,0 -94.6649921625048,31.598226268180195,0 -94.66500924852845,31.59809026644379,0 -94.66542727373688,31.598087419074584,0 -94.66542727373688,31.598087419074584,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
   </kml:Document>
 </kml:kml>
