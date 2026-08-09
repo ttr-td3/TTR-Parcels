@@ -1998,5 +1998,21 @@
         </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-26-0038 -105 WATLINGTON ST</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.18918778829857,31.78466151684603,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.18911027702507,31.784274185922175,0 -94.18962780109185,31.784578780163567,0 -94.18924649709403,31.785043897365977,0 -94.18875945191309,31.784759564247583,0 -94.18911028252623,31.78427416178151,0 -94.18911027702507,31.784274185922175,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
   </kml:Document>
 </kml:kml>
