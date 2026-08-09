@@ -2014,5 +2014,21 @@
         </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-26-0039 - 1005 LOGANSPORT</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.64744640801132,31.609839122173543,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.64709971180986,31.609529335880982,0 -94.64763936290483,31.609799631021648,0 -94.64784821713118,31.609905733726798,0 -94.6478511164,31.610182927779977,0 -94.64696687841045,31.60971405462223,0 -94.64709971180986,31.609529335880982,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
   </kml:Document>
 </kml:kml>
