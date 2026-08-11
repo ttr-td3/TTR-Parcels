@@ -622,6 +622,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0061 - 2 LOTS ON POWERS ST</kml:name>
+       <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.66902951513281,31.61044211168361,0</kml:coordinates>
