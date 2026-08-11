@@ -2205,5 +2205,21 @@
         </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-26-0079 - 1905 GOLDSBERRY ST</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.66002054935039,31.587658494663174,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.65957359101635,31.58745600877687,0 -94.66053090708314,31.587594147078633,0 -94.66043745571957,31.58785958588679,0 -94.6595388923427,31.587729925373058,0 -94.65957359101635,31.58745600877687,0 -94.65957359101635,31.58745600877687,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
   </kml:Document>
 </kml:kml>
