@@ -196,62 +196,15 @@
           </kml:outerBoundaryIs>
         </kml:Polygon>
       </kml:MultiGeometry>
-    </kml:Placemark>
-    <kml:Placemark>
-      <kml:name>108-24-0033</kml:name>
+    </kml:Placemark>   
+   <kml:Placemark>
+      <kml:name>108-24-0061</kml:name>
       <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
       <kml:MultiGeometry>
-        <kml:Point>
-          <kml:coordinates>-94.62900182842766,31.71922139747362,0</kml:coordinates>
+       <kml:Point>
+          <kml:coordinates>-94.67191716416312,31.61032714719547,0</kml:coordinates>
         </kml:Point>
-        <kml:Polygon>
-          <kml:outerBoundaryIs>
-            <kml:LinearRing>
-              <kml:coordinates>
-									-94.64823426560218,31.59641521500581,0 -94.647960791169,31.5961827530279,0 -94.6479619227961,31.59618177771987,0 -94.64823539722926,31.59641423969551,0 -94.64823426560218,31.59641521500581,0
-								</kml:coordinates>
-            </kml:LinearRing>
-          </kml:outerBoundaryIs>
-        </kml:Polygon>
-        <kml:Polygon>
-          <kml:tessellate>1</kml:tessellate>
-          <kml:outerBoundaryIs>
-            <kml:LinearRing>
-              <kml:coordinates>
-									-94.64796078442363,31.59618178352175,0 -94.64818596991104,31.59598575312733,0 -94.64818711502879,31.59598671682962,0 -94.64796192954149,31.596182747226,0 -94.64796078442363,31.59618178352175,0
-								</kml:coordinates>
-            </kml:LinearRing>
-          </kml:outerBoundaryIs>
-        </kml:Polygon>
-        <kml:Polygon>
-          <kml:tessellate>1</kml:tessellate>
-          <kml:outerBoundaryIs>
-            <kml:LinearRing>
-              <kml:coordinates>
-									-94.64818710828115,31.59598574732347,0 -94.64846172218058,31.59621917742907,0 -94.64846059055814,31.59622015274143,0 -94.64818597665868,31.5959867226335,0 -94.64818710828115,31.59598574732347,0
-								</kml:coordinates>
-            </kml:LinearRing>
-          </kml:outerBoundaryIs>
-        </kml:Polygon>
-        <kml:Polygon>
-          <kml:tessellate>1</kml:tessellate>
-          <kml:outerBoundaryIs>
-            <kml:LinearRing>
-              <kml:coordinates>
-									-94.64846172610915,31.59622014937944,0 -94.64823540115552,31.59641521164584,0 -94.64823426167594,31.5964142430555,0 -94.6484605866296,31.596219180791,0 -94.64846172610915,31.59622014937944,0
-								</kml:coordinates>
-            </kml:LinearRing>
-          </kml:outerBoundaryIs>
-        </kml:Polygon>
-      </kml:MultiGeometry>
-      <kml:altitudeMode>clampToGround</kml:altitudeMode>
-    </kml:Placemark>
-    <kml:Placemark>
-      <kml:name>108-24-0061</kml:name>
-      <kml:open>1</kml:open>
-      <kml:styleUrl>#m_ylw-pushpin</kml:styleUrl>
       <kml:Polygon>
-        <kml:tessellate>1</kml:tessellate>
         <kml:outerBoundaryIs>
           <kml:LinearRing>
             <kml:coordinates>
@@ -260,10 +213,6 @@
           </kml:LinearRing>
         </kml:outerBoundaryIs>
       </kml:Polygon>
-    </kml:Placemark>
-    <kml:Placemark>
-      <kml:name>108-24-0061</kml:name>
-      <kml:styleUrl>#m_ylw-pushpin</kml:styleUrl>
       <kml:Polygon>
         <kml:tessellate>1</kml:tessellate>
         <kml:outerBoundaryIs>
@@ -274,41 +223,7 @@
           </kml:LinearRing>
         </kml:outerBoundaryIs>
       </kml:Polygon>
-    </kml:Placemark>
-    <kml:Placemark>
-      <kml:name>108-24-0061</kml:name>
-      <kml:LookAt>
-        <gx:TimeSpan>
-          <kml:begin>2025-04-25T10:56:54.5663863Z</kml:begin>
-          <kml:end>2025-04-25T10:56:54.7663876Z</kml:end>
-        </gx:TimeSpan>
-        <gx:ViewerOptions>
-          <gx:option name="historicalimagery"></gx:option>
-          <gx:option enabled="0" name="sunlight"></gx:option>
-          <gx:option enabled="0" name="streetview"></gx:option>
-        </gx:ViewerOptions>
-        <kml:longitude>-94.67277327997508</kml:longitude>
-        <kml:latitude>31.61018782643747</kml:latitude>
-        <kml:altitude>0</kml:altitude>
-        <kml:heading>-0.0004476371532605435</kml:heading>
-        <kml:tilt>0</kml:tilt>
-        <kml:range>665.7301172318199</kml:range>
-        <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-      </kml:LookAt>
-      <kml:styleUrl>#m_ylw-pushpin</kml:styleUrl>
-      <kml:Point>
-        <gx:drawOrder>1</gx:drawOrder>
-        <kml:coordinates>-94.67191716416312,31.61032714719547,0</kml:coordinates>
-      </kml:Point>
-    </kml:Placemark>
-    <kml:Placemark>
-      <kml:styleUrl>#m_ylw-pushpin</kml:styleUrl>
-      <kml:LineString>
-        <kml:tessellate>1</kml:tessellate>
-        <kml:coordinates>
-						-94.67170077683798,31.61339647704396,0 -94.67121480011032,31.61340767361178,0 -94.67121355262002,31.61298421386808,0 -94.67090666113324,31.6129890207115,0 -94.67089839823487,31.61151698111938,0 -94.67156861377535,31.61148553249576,0 -94.67156548681034,31.61094910782684,0 -94.67168124044936,31.61094034589997,0 -94.67169320988826,31.61254622186704,0 -94.67170077683798,31.61339647704396,0
-					</kml:coordinates>
-      </kml:LineString>
+     </kml:MultiGeometry>
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-24-0063</kml:name>
