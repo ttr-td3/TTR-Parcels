@@ -244,23 +244,6 @@
       </kml:MultiGeometry>
     </kml:Placemark>
     <kml:Placemark>
-      <kml:name>108-24-0064</kml:name>
-      <kml:LookAt>
-        <kml:longitude>-94.67186742546956</kml:longitude>
-        <kml:latitude>31.6135847760405</kml:latitude>
-        <kml:altitude>0</kml:altitude>
-        <kml:heading>-1.354797085024867</kml:heading>
-        <kml:tilt>0.5029943409676669</kml:tilt>
-        <kml:range>219.4082859682622</kml:range>
-        <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-      </kml:LookAt>
-      <kml:styleUrl>#m_ylw-pushpin</kml:styleUrl>
-      <kml:Point>
-        <gx:drawOrder>1</gx:drawOrder>
-        <kml:coordinates>-94.67137815007166,31.61360764371365,0</kml:coordinates>
-      </kml:Point>
-    </kml:Placemark>
-    <kml:Placemark>
       <kml:name>108-25-0005 860 SPRING CREEK DR</kml:name>
       <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
       <kml:MultiGeometry>
@@ -279,37 +262,31 @@
       </kml:MultiGeometry>
     </kml:Placemark>
     <kml:Placemark>
-      <kml:name>108-25-0006</kml:name>
-      <kml:styleUrl>#m_ylw-pushpin</kml:styleUrl>
-      <kml:LineString>
-        <kml:tessellate>1</kml:tessellate>
-        <kml:coordinates>
+      <kml:name>108-25-0006 - 7013 NORTH ST</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.66298523585402,31.66947633029815,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+             <kml:coordinates>
 						-94.66349141958324,31.6699961684221,0 -94.66278579977867,31.67000114684132,0 -94.66247905212478,31.668951513755,0 -94.66332786699937,31.66895784289305,0 -94.66349141958324,31.6699961684221,0
-					</kml:coordinates>
-      </kml:LineString>
+			</kml:coordinates>
+           </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
     </kml:Placemark>
     <kml:Placemark>
-      <kml:name>108-25-0006</kml:name>
-      <kml:LookAt>
-        <kml:longitude>-94.66298523585402</kml:longitude>
-        <kml:latitude>31.66947633029815</kml:latitude>
-        <kml:altitude>0</kml:altitude>
-        <kml:heading>-1.192708005548819e-15</kml:heading>
-        <kml:tilt>0</kml:tilt>
-        <kml:range>999.9999999993528</kml:range>
-        <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-      </kml:LookAt>
-      <kml:styleUrl>#m_ylw-pushpin</kml:styleUrl>
-      <kml:Point>
-        <gx:drawOrder>1</gx:drawOrder>
-        <kml:coordinates>-94.66298523585402,31.66947633029815,0</kml:coordinates>
-      </kml:Point>
-    </kml:Placemark>
-    <kml:Placemark>
-      <kml:name>Untitled Polygon</kml:name>
-      <kml:styleUrl>#m_ylw-pushpin</kml:styleUrl>
+      <kml:name>108-25-0009 - 138 COUNTY ROAD 765</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+       <kml:MultiGeometry>
+        <kml:Point>
+        <kml:coordinates>-94.7966332132269,31.56556190349767,0</kml:coordinates>
+        </kml:Point>
       <kml:Polygon>
-        <kml:tessellate>1</kml:tessellate>
         <kml:outerBoundaryIs>
           <kml:LinearRing>
             <kml:coordinates>
@@ -318,23 +295,7 @@
           </kml:LinearRing>
         </kml:outerBoundaryIs>
       </kml:Polygon>
-    </kml:Placemark>
-    <kml:Placemark>
-      <kml:name>108-25-0009</kml:name>
-      <kml:LookAt>
-        <kml:longitude>-94.79289140478396</kml:longitude>
-        <kml:latitude>31.56588301193947</kml:latitude>
-        <kml:altitude>0</kml:altitude>
-        <kml:heading>0.007879302023396687</kml:heading>
-        <kml:tilt>0</kml:tilt>
-        <kml:range>1920.304036188206</kml:range>
-        <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-      </kml:LookAt>
-      <kml:styleUrl>#m_ylw-pushpin</kml:styleUrl>
-      <kml:Point>
-        <gx:drawOrder>1</gx:drawOrder>
-        <kml:coordinates>-94.7966332132269,31.56556190349767,0</kml:coordinates>
-      </kml:Point>
+    </kml:MultiGeometry>
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0018 - 146 Rock Creek</kml:name>
