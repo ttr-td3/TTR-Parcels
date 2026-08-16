@@ -196,51 +196,51 @@
           </kml:outerBoundaryIs>
         </kml:Polygon>
       </kml:MultiGeometry>
-    </kml:Placemark>   
-   <kml:Placemark>
+    </kml:Placemark>
+    <kml:Placemark>
       <kml:name>108-24-0061 - POWERS ST</kml:name>
       <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
       <kml:MultiGeometry>
-       <kml:Point>
+        <kml:Point>
           <kml:coordinates>-94.67191716416312,31.61032714719547,0</kml:coordinates>
         </kml:Point>
-      <kml:Polygon>
-        <kml:outerBoundaryIs>
-          <kml:LinearRing>
-            <kml:coordinates>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>
 								-94.67217488747519,31.61018012686565,0 -94.67171110640841,31.61019852405848,0 -94.67172406667868,31.61050640564919,0 -94.67218136785958,31.6104873948433,0 -94.67217488747519,31.61018012686565,0
 							</kml:coordinates>
-          </kml:LinearRing>
-        </kml:outerBoundaryIs>
-      </kml:Polygon>
-      <kml:Polygon>
-        <kml:tessellate>1</kml:tessellate>
-        <kml:outerBoundaryIs>
-          <kml:LinearRing>
-            <kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:tessellate>1</kml:tessellate>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>
 								-94.67148020236044,31.61020050078471,0 -94.67091829124065,31.61022414316368,0 -94.67092886490553,31.61055180392039,0 -94.67148945585554,31.61052590934743,0 -94.67148020236044,31.61020050078471,0
 							</kml:coordinates>
-          </kml:LinearRing>
-        </kml:outerBoundaryIs>
-      </kml:Polygon>
-     </kml:MultiGeometry>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-24-0063 - WADE AND DOLPH  REPLAT</kml:name>
       <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
       <kml:MultiGeometry>
-      <kml:Point>
-        <kml:coordinates>-94.67126451509272,31.61209481052827,0</kml:coordinates>
-      </kml:Point>
-       <kml:Polygon>
-        <kml:outerBoundaryIs>
-          <kml:LinearRing>
-        <kml:coordinates>
+        <kml:Point>
+          <kml:coordinates>-94.67126451509272,31.61209481052827,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>
 						-94.67170077683798,31.61339647704396,0 -94.67121480011032,31.61340767361178,0 -94.67121355262002,31.61298421386808,0 -94.67090666113324,31.6129890207115,0 -94.67089839823487,31.61151698111938,0 -94.67156861377535,31.61148553249576,0 -94.67156548681034,31.61094910782684,0 -94.67168124044936,31.61094034589997,0 -94.67169320988826,31.61254622186704,0 -94.67170077683798,31.61339647704396,0
 					</kml:coordinates>
-         </kml:LinearRing>
-        </kml:outerBoundaryIs>
-      </kml:Polygon>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
     <kml:Placemark>
@@ -622,29 +622,29 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0061 - 2 LOTS ON POWERS ST</kml:name>
-       <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
-        <kml:MultiGeometry>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.66902951513281,31.61044211168361,0</kml:coordinates>
         </kml:Point>
-          <kml:Polygon>
-            <kml:outerBoundaryIs>
-              <kml:LinearRing>
-                <kml:coordinates>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>
 										-94.66847256319588,31.61036261556368,0 -94.66828039382365,31.61037741846896,0 -94.66828997345364,31.61067775938813,0 -94.66848383246432,31.6106672218542,0 -94.66847256319588,31.61036261556368,0
 				</kml:coordinates>
-              </kml:LinearRing>
-            </kml:outerBoundaryIs>
-          </kml:Polygon>
-          <kml:Polygon>
-            <kml:outerBoundaryIs>
-              <kml:LinearRing>
-                <kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>
 										-94.66908201762976,31.61060993495029,0 -94.66907251640141,31.61032952432753,0 -94.66883519953608,31.61034019087723,0 -94.66883977234532,31.61064196945187,0 -94.66908201762976,31.61060993495029,0
 				</kml:coordinates>
-              </kml:LinearRing>
-            </kml:outerBoundaryIs>
-          </kml:Polygon>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
     <kml:Placemark>
@@ -2069,6 +2069,22 @@
           <kml:outerBoundaryIs>
             <kml:LinearRing>
               <kml:coordinates>-94.66061470459667,31.587318833678967,0 -94.65966196401614,31.587182818129566,0 -94.6596750922468,31.586884421558622,0 -94.65987218756186,31.586912837427093,0 -94.66058670396515,31.58702594683027,0 -94.66057407715604,31.58709394839158,0 -94.66064410395778,31.587103476375308,0 -94.66064515979814,31.58710363554484,0 -94.66064620884386,31.58710382479301,0 -94.66064724992587,31.587104043908855,0 -94.66064828188406,31.587104292648164,0 -94.66064930356839,31.587104570733814,0 -94.66065031384032,31.587104877855904,0 -94.66065131157401,31.587105213672118,0 -94.66065229565763,31.587105577808273,0 -94.6606532649945,31.58710596985856,0 -94.66065421850438,31.587106389386122,0 -94.66065515512474,31.587106835923418,0 -94.66065607381181,31.5871073089728,0 -94.66065697354182,31.587107808007193,0 -94.66065785331212,31.587108332470386,0 -94.66065871214231,31.587108881777972,0 -94.66065954907529,31.58710945531782,0 -94.66066036317844,31.587110052450768,0 -94.6606611535445,31.58711067251137,0 -94.66066191929272,31.587111314808652,0 -94.66066265956975,31.58711197862687,0 -94.66066337355063,31.58711266322624,0 -94.66066406043973,31.587113367843862,0 -94.66066471947157,31.587114091694556,0 -94.66066534991174,31.587114833971597,0 -94.66066595105768,31.587115593847866,0 -94.6606665222395,31.587116370476533,0 -94.66066706282064,31.587117162992158,0 -94.66066757219872,31.58711797051155,0 -94.66066804980609,31.587118792134834,0 -94.6606684951105,31.587119626946404,0 -94.66066890761573,31.587120474015958,0 -94.66066928686206,31.587121332399548,0 -94.66066963242686,31.587122201140584,0 -94.66066994392507,31.58712307927092,0 -94.66067022100955,31.587123965812065,0 -94.66067046337152,31.587124859776004,0 -94.66067067074086,31.587125760166526,0 -94.66067084288652,31.587126665980247,0 -94.66067097961663,31.587127576207767,0 -94.66067108077884,31.587128489834715,0 -94.66067114626041,31.587129405842948,0 -94.66067117598838,31.58713032321171,0 -94.6606711699296,31.587131240918684,0 -94.66067112809085,31.587132157941166,0 -94.66067105051872,31.587133073257284,0 -94.66067093729966,31.587133985847018,0 -94.66067078855986,31.58713489469331,0 -94.66067060446504,31.587135798783443,0 -94.66067038522039,31.587136697109923,0 -94.66067013107019,31.587137588671595,0 -94.66067013107019,31.587137588671595,0 -94.66061470459667,31.587318833678967,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-26-0074 - 140 CR 5084</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.57241027154453,31.579738566125023,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.57237198870271,31.579826008374475,0 -94.57193295920702,31.579623951323203,0 -94.57205806199082,31.579423529297543,0 -94.57284137003388,31.579779956299653,0 -94.57268745464629,31.58006469922399,0 -94.57232924036394,31.579898875077706,0 -94.57237198870271,31.579826008374475,0</kml:coordinates>
             </kml:LinearRing>
           </kml:outerBoundaryIs>
         </kml:Polygon>
