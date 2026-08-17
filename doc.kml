@@ -1797,5 +1797,21 @@
         </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-26-0059 - 339 RAMSEY ST</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.72571662896452,31.403705563554634,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.7259407151174,31.403300514243288,0 -94.72592549120311,31.40403133397092,0 -94.72549173761223,31.404017386432088,0 -94.7254457930244,31.40347157870432,0 -94.725760280108,31.403472335709242,0 -94.72577354704654,31.4033001121781,0 -94.7259407151174,31.403300514243288,0 -94.7259407151174,31.403300514243288,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
   </kml:Document>
 </kml:kml>
