@@ -1925,5 +1925,21 @@
         </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-26-0065 - 174 ROCK CREEK</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.62901802592924,31.718560514104762,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.62857340357273,31.718666303091336,0 -94.62857317693772,31.71844752814746,0 -94.62946290115435,31.718454140430836,0 -94.62946078125498,31.718674259483084,0 -94.62857340357273,31.718666303091336,0 -94.62857340357273,31.718666303091336,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
   </kml:Document>
 </kml:kml>
