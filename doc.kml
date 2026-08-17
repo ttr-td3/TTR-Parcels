@@ -1909,5 +1909,21 @@
         </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-26-0064 - 1757 CR 273</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.5217193209304,31.75392374967808,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.5225098984656,31.751880631023766,0 -94.52148923022105,31.75189150464511,0 -94.52152205947299,31.752489218511688,0 -94.52134324693009,31.753111143681082,0 -94.5213642667719,31.75366193281643,0 -94.51942736622725,31.753676463584114,0 -94.51943309629078,31.754226767674904,0 -94.52196533387087,31.7542082270901,0 -94.52199265513529,31.756668388817754,0 -94.52256550663645,31.756662732423578,0 -94.5225098984656,31.751880631023766,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
   </kml:Document>
 </kml:kml>
