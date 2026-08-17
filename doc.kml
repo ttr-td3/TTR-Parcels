@@ -1989,5 +1989,21 @@
         </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-26-0070 - 7610 CR 41511</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-95.91110565179932,32.14903333155951,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-95.91167880059096,32.14832428360649,0 -95.91162174659108,32.14963506568062,0 -95.91076559212098,32.14988347554769,0 -95.91050484521578,32.14923573860937,0 -95.9106466879151,32.148314906475704,0 -95.91167880059096,32.14832428360649,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
   </kml:Document>
 </kml:kml>
