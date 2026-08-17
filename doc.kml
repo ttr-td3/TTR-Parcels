@@ -82,7 +82,7 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
-        <kml:name>1800051 - 239 Rock Creek</kml:name>
+        <kml:name>1080051 - 239 Rock Creek</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
@@ -100,7 +100,7 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
-        <kml:name>10800143</kml:name>
+        <kml:name>1080143 - 25 ACRES</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
@@ -1678,7 +1678,7 @@
       </kml:MultiGeometry>
     </kml:Placemark>
     <kml:Placemark>
-      <kml:name>108-26-0058 1142 - CR 428</kml:name>
+      <kml:name>108-26-0058 - 1142 CR 428</kml:name>
       <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
