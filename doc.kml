@@ -1829,5 +1829,21 @@
         </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-26-0060 - 3443 HWY 59</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.44946541535786,31.870950185922613,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.44945353333588,31.871532318383824,0 -94.44879107098079,31.870764291378453,0 -94.44932564888389,31.870427912304304,0 -94.45015167089198,31.870905341196636,0 -94.45007710879342,31.87094987469796,0 -94.44989975590704,31.87125241005779,0 -94.44945353333588,31.871532318383824,0 -94.44945353333588,31.871532318383824,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
   </kml:Document>
 </kml:kml>
