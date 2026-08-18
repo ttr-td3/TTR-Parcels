@@ -2220,5 +2220,21 @@
         </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-25-0023 - 1239 HAPPY LAND ROAD_CANCELED</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.59335262975837,31.703313751020886,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.59289921484562,31.702392324360666,0 -94.59302066473647,31.7023897236691,0 -94.59373948971826,31.70240566123693,0 -94.59380848531778,31.704219098777546,0 -94.59296958897431,31.704242424170953,0 -94.59289921484562,31.702392324360666,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
   </kml:Document>
 </kml:kml>
