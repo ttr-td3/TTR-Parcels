@@ -341,7 +341,87 @@
           </kml:Polygon>
         </kml:MultiGeometry>
       </kml:Placemark>
-      <kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-25-0012 - 832 CR 250</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.62558807117918,31.710625328117064,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.62723617230843,31.710159453241282,0 -94.62687894837804,31.710657276122546,0 -94.62682403555485,31.710833726720846,0 -94.62700897192423,31.711134978699846,0 -94.6264929777056,31.711637478132694,0 -94.62634737643637,31.711798971222144,0 -94.62382714134753,31.710463375743934,0 -94.62502677060908,31.709112759815785,0 -94.62502941701153,31.71016122456771,0 -94.62723617230843,31.710159453241282,0 -94.62723617230843,31.710159453241282,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-25-0013 - 17808 US 59</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.57276750990302,31.76030067956083,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.57260648815422,31.761018571389016,0 -94.57194913032788,31.760508491944123,0 -94.57236469041582,31.75989218958981,0 -94.57324433288746,31.75977692248677,0 -94.57370782253817,31.759935381796172,0 -94.57365463013619,31.759983037081057,0 -94.57358729235492,31.76011952621576,0 -94.57335890885273,31.76031699989918,0 -94.57270960939353,31.760927828476785,0 -94.57260648815422,31.761018571389016,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-25-0014 - 2026 VIRGINIA</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.67531024527837,31.596899974487005,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.6751714302028,31.597225343496987,0 -94.67517546039845,31.596556907050385,0 -94.67544964745112,31.59657911223296,0 -94.67544567302271,31.597238614364343,0 -94.6751714302028,31.597225343496987,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-25-0015 - 2102 VIRGINIA AVE</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.67558457693197,31.59691739063125,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.67544567301056,31.597238614372372,0 -94.67544964743898,31.596579112241,0 -94.6757238346196,31.59660131684501,0 -94.67572067444885,31.59725001357163,0 -94.67544567301056,31.597238614372372,0 -94.67544567301056,31.597238614372372,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-25-0016 - 229 TRAVIS ST</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.65501913960513,31.630609241084038,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.65490106316327,31.630814753475722,0 -94.65488478478566,31.630400826120482,0 -94.65513569738083,31.630403148616107,0 -94.6551550537611,31.630816543062288,0 -94.65490106316327,31.630814753475722,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
+    <kml:Placemark>
         <kml:name>108-25-0018 - 146 Rock Creek</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
@@ -358,6 +438,22 @@
             </kml:outerBoundaryIs>
           </kml:Polygon>
         </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
+      <kml:name>108-25-0019 - DEERFIELD DR L5 B2</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.65064454767153,31.646595364621213,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.65048233002823,31.646779356258733,0 -94.65048573091157,31.646410306496147,0 -94.65080707467145,31.646412473421623,0 -94.65080369529355,31.646779324013682,0 -94.65048233002823,31.646779356258733,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0022 - 4165 FM 415</kml:name>
@@ -2092,101 +2188,5 @@
         </kml:MultiGeometry>
       </kml:Placemark>
     </kml:Folder>
-    <kml:Placemark>
-      <kml:name>108-25-0012 - 832 CR 250</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
-      <kml:MultiGeometry>
-        <kml:Point>
-          <kml:coordinates>-94.62558807117918,31.710625328117064,0</kml:coordinates>
-        </kml:Point>
-        <kml:Polygon>
-          <kml:outerBoundaryIs>
-            <kml:LinearRing>
-              <kml:coordinates>-94.62723617230843,31.710159453241282,0 -94.62687894837804,31.710657276122546,0 -94.62682403555485,31.710833726720846,0 -94.62700897192423,31.711134978699846,0 -94.6264929777056,31.711637478132694,0 -94.62634737643637,31.711798971222144,0 -94.62382714134753,31.710463375743934,0 -94.62502677060908,31.709112759815785,0 -94.62502941701153,31.71016122456771,0 -94.62723617230843,31.710159453241282,0 -94.62723617230843,31.710159453241282,0</kml:coordinates>
-            </kml:LinearRing>
-          </kml:outerBoundaryIs>
-        </kml:Polygon>
-      </kml:MultiGeometry>
-    </kml:Placemark>
-    <kml:Placemark>
-      <kml:name>108-25-0013 - 17808 US 59</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
-      <kml:MultiGeometry>
-        <kml:Point>
-          <kml:coordinates>-94.57276750990302,31.76030067956083,0</kml:coordinates>
-        </kml:Point>
-        <kml:Polygon>
-          <kml:outerBoundaryIs>
-            <kml:LinearRing>
-              <kml:coordinates>-94.57260648815422,31.761018571389016,0 -94.57194913032788,31.760508491944123,0 -94.57236469041582,31.75989218958981,0 -94.57324433288746,31.75977692248677,0 -94.57370782253817,31.759935381796172,0 -94.57365463013619,31.759983037081057,0 -94.57358729235492,31.76011952621576,0 -94.57335890885273,31.76031699989918,0 -94.57270960939353,31.760927828476785,0 -94.57260648815422,31.761018571389016,0</kml:coordinates>
-            </kml:LinearRing>
-          </kml:outerBoundaryIs>
-        </kml:Polygon>
-      </kml:MultiGeometry>
-    </kml:Placemark>
-    <kml:Placemark>
-      <kml:name>108-25-0014 - 2026 VIRGINIA</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
-      <kml:MultiGeometry>
-        <kml:Point>
-          <kml:coordinates>-94.67531024527837,31.596899974487005,0</kml:coordinates>
-        </kml:Point>
-        <kml:Polygon>
-          <kml:outerBoundaryIs>
-            <kml:LinearRing>
-              <kml:coordinates>-94.6751714302028,31.597225343496987,0 -94.67517546039845,31.596556907050385,0 -94.67544964745112,31.59657911223296,0 -94.67544567302271,31.597238614364343,0 -94.6751714302028,31.597225343496987,0</kml:coordinates>
-            </kml:LinearRing>
-          </kml:outerBoundaryIs>
-        </kml:Polygon>
-      </kml:MultiGeometry>
-    </kml:Placemark>
-    <kml:Placemark>
-      <kml:name>108-25-0015 - 2102 VIRGINIA AVE</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
-      <kml:MultiGeometry>
-        <kml:Point>
-          <kml:coordinates>-94.67558457693197,31.59691739063125,0</kml:coordinates>
-        </kml:Point>
-        <kml:Polygon>
-          <kml:outerBoundaryIs>
-            <kml:LinearRing>
-              <kml:coordinates>-94.67544567301056,31.597238614372372,0 -94.67544964743898,31.596579112241,0 -94.6757238346196,31.59660131684501,0 -94.67572067444885,31.59725001357163,0 -94.67544567301056,31.597238614372372,0 -94.67544567301056,31.597238614372372,0</kml:coordinates>
-            </kml:LinearRing>
-          </kml:outerBoundaryIs>
-        </kml:Polygon>
-      </kml:MultiGeometry>
-    </kml:Placemark>
-    <kml:Placemark>
-      <kml:name>108-25-0016 - 229 TRAVIS ST</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
-      <kml:MultiGeometry>
-        <kml:Point>
-          <kml:coordinates>-94.65501913960513,31.630609241084038,0</kml:coordinates>
-        </kml:Point>
-        <kml:Polygon>
-          <kml:outerBoundaryIs>
-            <kml:LinearRing>
-              <kml:coordinates>-94.65490106316327,31.630814753475722,0 -94.65488478478566,31.630400826120482,0 -94.65513569738083,31.630403148616107,0 -94.6551550537611,31.630816543062288,0 -94.65490106316327,31.630814753475722,0</kml:coordinates>
-            </kml:LinearRing>
-          </kml:outerBoundaryIs>
-        </kml:Polygon>
-      </kml:MultiGeometry>
-    </kml:Placemark>
-    <kml:Placemark>
-      <kml:name>108-25-0019 - DEERFIELD DR L5 B2</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
-      <kml:MultiGeometry>
-        <kml:Point>
-          <kml:coordinates>-94.65064454767153,31.646595364621213,0</kml:coordinates>
-        </kml:Point>
-        <kml:Polygon>
-          <kml:outerBoundaryIs>
-            <kml:LinearRing>
-              <kml:coordinates>-94.65048233002823,31.646779356258733,0 -94.65048573091157,31.646410306496147,0 -94.65080707467145,31.646412473421623,0 -94.65080369529355,31.646779324013682,0 -94.65048233002823,31.646779356258733,0</kml:coordinates>
-            </kml:LinearRing>
-          </kml:outerBoundaryIs>
-        </kml:Polygon>
-      </kml:MultiGeometry>
-    </kml:Placemark>
   </kml:Document>
 </kml:kml>
