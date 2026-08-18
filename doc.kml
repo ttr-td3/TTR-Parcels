@@ -2204,5 +2204,21 @@
         </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-25-0021 - 354 CR 785</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.88826616711135,31.624546534234252,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.88918072399318,31.626099915582476,0 -94.8868108412649,31.626251907620784,0 -94.88842288990281,31.62204791198708,0 -94.8891172476132,31.622395693135044,0 -94.88902021601211,31.624049739865445,0 -94.88918072399318,31.626099915582476,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
   </kml:Document>
 </kml:kml>
