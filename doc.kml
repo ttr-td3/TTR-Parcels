@@ -2140,5 +2140,21 @@
         </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-25-0015 - 2102 VIRGINIA AVE</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.67558457693197,31.59691739063125,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.67544567301056,31.597238614372372,0 -94.67544964743898,31.596579112241,0 -94.6757238346196,31.59660131684501,0 -94.67572067444885,31.59725001357163,0 -94.67544567301056,31.597238614372372,0 -94.67544567301056,31.597238614372372,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
   </kml:Document>
 </kml:kml>
