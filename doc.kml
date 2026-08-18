@@ -2108,5 +2108,21 @@
         </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-25-0013 - 17808 US 59</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.57276750990302,31.76030067956083,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.57260648815422,31.761018571389016,0 -94.57194913032788,31.760508491944123,0 -94.57236469041582,31.75989218958981,0 -94.57324433288746,31.75977692248677,0 -94.57370782253817,31.759935381796172,0 -94.57365463013619,31.759983037081057,0 -94.57358729235492,31.76011952621576,0 -94.57335890885273,31.76031699989918,0 -94.57270960939353,31.760927828476785,0 -94.57260648815422,31.761018571389016,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
   </kml:Document>
 </kml:kml>
