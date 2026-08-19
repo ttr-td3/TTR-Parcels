@@ -2268,5 +2268,21 @@
         </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-26-0082 - 2026 TEXAS 87 S</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.12057406717815,31.783723370744937,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.1206419842033,31.784093882450197,0 -94.12007066336453,31.78379069742692,0 -94.1205061506829,31.78335285894993,0 -94.12107747027808,31.783656042115222,0 -94.1206419842033,31.784093882450197,0 -94.1206419842033,31.784093882450197,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
   </kml:Document>
 </kml:kml>
