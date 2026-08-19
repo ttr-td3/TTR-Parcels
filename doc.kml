@@ -2252,5 +2252,21 @@
         </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-26-0081 - 259 OLD EWING RD</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.59618675537111,31.340836789110085,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.59617212746318,31.34118286026028,0 -94.59590685172127,31.34071271823518,0 -94.59608781581859,31.340530817503357,0 -94.59651033315019,31.340840988640423,0 -94.59626669974361,31.341088000902037,0 -94.59617212746318,31.34118286026028,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
   </kml:Document>
 </kml:kml>
