@@ -2414,5 +2414,21 @@
         </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-25-0031 - OLD TYLER RD LOT 5</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.66985002199024,31.62755566628791,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.67011875160607,31.627611283428383,0 -94.6698621446191,31.627357508881694,0 -94.66960401076794,31.627548601381136,0 -94.66977690937185,31.627723503551262,0 -94.67011875160607,31.627611283428383,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
   </kml:Document>
 </kml:kml>
