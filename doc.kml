@@ -2300,5 +2300,21 @@
         </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-25-0028 - CR 146 26 ACRES</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.66811177828757,31.835044728312365,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.6671790230224,31.83735061545927,0 -94.665002780479,31.837358839960594,0 -94.66500482935047,31.83700973962753,0 -94.67031151877529,31.83198156604043,0 -94.67052138692743,31.832148454799018,0 -94.67106327810987,31.832845802442474,0 -94.6671790230224,31.83735061545927,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
   </kml:Document>
 </kml:kml>
