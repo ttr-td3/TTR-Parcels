@@ -455,38 +455,38 @@
           </kml:Polygon>
         </kml:MultiGeometry>
       </kml:Placemark>
-    <kml:Placemark>
-      <kml:name>108-25-0020 - CR 864</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
-      <kml:MultiGeometry>
-        <kml:Point>
-          <kml:coordinates>-94.81023564605516,31.801407661474755,0</kml:coordinates>
-        </kml:Point>
-        <kml:Polygon>
-          <kml:outerBoundaryIs>
-            <kml:LinearRing>
-              <kml:coordinates>-94.80906514228334,31.80222984236633,0 -94.80916012886885,31.799315696259672,0 -94.80928203968247,31.7994767006524,0 -94.80966674453981,31.800268008669438,0 -94.80977650318626,31.80042526788558,0 -94.80978234129964,31.800433539219945,0 -94.80978827602472,31.800441760254394,0 -94.80979430676743,31.800449930165872,0 -94.80980043292406,31.800458048136463,0 -94.80980665388131,31.800466113353494,0 -94.80981296901643,31.800474125009558,0 -94.80981937769722,31.800482082302587,0 -94.80982587928213,31.800489984435913,0 -94.80983247312028,31.800497830618514,0 -94.80983915855161,31.800505620064857,0 -94.80984593490682,31.80051335199512,0 -94.80985280150755,31.80052102563528,0 -94.80985975766639,31.800528640217088,0 -94.80986680268697,31.800536194978285,0 -94.80987393586405,31.8005436891625,0 -94.80988115648348,31.800551122019503,0 -94.80988846382247,31.800558492805177,0 -94.80989585714948,31.80056580078161,0 -94.80990333572436,31.800573045217185,0 -94.8099108987984,31.800580225386682,0 -94.80991854561452,31.80058734057125,0 -94.8099262754072,31.800594390058585,0 -94.80993408740255,31.800601373142946,0 -94.8099419808186,31.800608289125265,0 -94.8099499548651,31.80061513731315,0 -94.80995800874379,31.800621917021008,0 -94.80996614164837,31.800628627570134,0 -94.80997435276467,31.800635268288694,0 -94.80998264127068,31.800641838511922,0 -94.8099910063366,31.800648337582018,0 -94.80999944712507,31.800654764848357,0 -94.81000796279103,31.800661119667488,0 -94.810016552482,31.800667401403235,0 -94.81002521533804,31.8006736094267,0 -94.81003395049194,31.800679743116426,0 -94.81004275706918,31.800685801858304,0 -94.81005163418816,31.80069178504579,0 -94.81006058096017,31.80069769207995,0 -94.81006959648956,31.80070352236934,0 -94.81007867987374,31.80070927533034,0 -94.81008783020341,31.80071495038698,0 -94.81009704656249,31.800720546971114,0 -94.81010632802834,31.800726064522483,0 -94.81011567367177,31.80073150248869,0 -94.8101250825572,31.800736860325305,0 -94.81013455374267,31.800742137496023,0 -94.81014408628002,31.800747333472437,0 -94.81015367921493,31.80075244773443,0 -94.81016333158706,31.80075747977,0 -94.81017304243005,31.800762429075334,0 -94.81017304243005,31.800762429075334,0 -94.81197596217515,31.8016154538249,0 -94.81221349157951,31.80171249133041,0 -94.81220509100768,31.802135567938123,0 -94.8106623067284,31.802246715454604,0 -94.80995409779159,31.802281027566835,0 -94.80906514228334,31.80222984236633,0</kml:coordinates>
-            </kml:LinearRing>
-          </kml:outerBoundaryIs>
-        </kml:Polygon>
-      </kml:MultiGeometry>
-    </kml:Placemark>
-    <kml:Placemark>
-      <kml:name>108-25-0021 - 354 CR 785</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
-      <kml:MultiGeometry>
-        <kml:Point>
-          <kml:coordinates>-94.88826616711135,31.624546534234252,0</kml:coordinates>
-        </kml:Point>
-        <kml:Polygon>
-          <kml:outerBoundaryIs>
-            <kml:LinearRing>
-              <kml:coordinates>-94.88918072399318,31.626099915582476,0 -94.8868108412649,31.626251907620784,0 -94.88842288990281,31.62204791198708,0 -94.8891172476132,31.622395693135044,0 -94.88902021601211,31.624049739865445,0 -94.88918072399318,31.626099915582476,0</kml:coordinates>
-            </kml:LinearRing>
-          </kml:outerBoundaryIs>
-        </kml:Polygon>
-      </kml:MultiGeometry>
-    </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>108-25-0020 - CR 864</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.81023564605516,31.801407661474755,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.80906514228334,31.80222984236633,0 -94.80916012886885,31.799315696259672,0 -94.80928203968247,31.7994767006524,0 -94.80966674453981,31.800268008669438,0 -94.80977650318626,31.80042526788558,0 -94.80978234129964,31.800433539219945,0 -94.80978827602472,31.800441760254394,0 -94.80979430676743,31.800449930165872,0 -94.80980043292406,31.800458048136463,0 -94.80980665388131,31.800466113353494,0 -94.80981296901643,31.800474125009558,0 -94.80981937769722,31.800482082302587,0 -94.80982587928213,31.800489984435913,0 -94.80983247312028,31.800497830618514,0 -94.80983915855161,31.800505620064857,0 -94.80984593490682,31.80051335199512,0 -94.80985280150755,31.80052102563528,0 -94.80985975766639,31.800528640217088,0 -94.80986680268697,31.800536194978285,0 -94.80987393586405,31.8005436891625,0 -94.80988115648348,31.800551122019503,0 -94.80988846382247,31.800558492805177,0 -94.80989585714948,31.80056580078161,0 -94.80990333572436,31.800573045217185,0 -94.8099108987984,31.800580225386682,0 -94.80991854561452,31.80058734057125,0 -94.8099262754072,31.800594390058585,0 -94.80993408740255,31.800601373142946,0 -94.8099419808186,31.800608289125265,0 -94.8099499548651,31.80061513731315,0 -94.80995800874379,31.800621917021008,0 -94.80996614164837,31.800628627570134,0 -94.80997435276467,31.800635268288694,0 -94.80998264127068,31.800641838511922,0 -94.8099910063366,31.800648337582018,0 -94.80999944712507,31.800654764848357,0 -94.81000796279103,31.800661119667488,0 -94.810016552482,31.800667401403235,0 -94.81002521533804,31.8006736094267,0 -94.81003395049194,31.800679743116426,0 -94.81004275706918,31.800685801858304,0 -94.81005163418816,31.80069178504579,0 -94.81006058096017,31.80069769207995,0 -94.81006959648956,31.80070352236934,0 -94.81007867987374,31.80070927533034,0 -94.81008783020341,31.80071495038698,0 -94.81009704656249,31.800720546971114,0 -94.81010632802834,31.800726064522483,0 -94.81011567367177,31.80073150248869,0 -94.8101250825572,31.800736860325305,0 -94.81013455374267,31.800742137496023,0 -94.81014408628002,31.800747333472437,0 -94.81015367921493,31.80075244773443,0 -94.81016333158706,31.80075747977,0 -94.81017304243005,31.800762429075334,0 -94.81017304243005,31.800762429075334,0 -94.81197596217515,31.8016154538249,0 -94.81221349157951,31.80171249133041,0 -94.81220509100768,31.802135567938123,0 -94.8106623067284,31.802246715454604,0 -94.80995409779159,31.802281027566835,0 -94.80906514228334,31.80222984236633,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>108-25-0021 - 354 CR 785</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.88826616711135,31.624546534234252,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.88918072399318,31.626099915582476,0 -94.8868108412649,31.626251907620784,0 -94.88842288990281,31.62204791198708,0 -94.8891172476132,31.622395693135044,0 -94.88902021601211,31.624049739865445,0 -94.88918072399318,31.626099915582476,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0022 - 4165 FM 415</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
@@ -505,23 +505,23 @@
           </kml:Polygon>
         </kml:MultiGeometry>
       </kml:Placemark>
-    <kml:Placemark>
-      <kml:name>108-25-0023 - 1239 HAPPY LAND ROAD_CANCELED</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
-      <kml:MultiGeometry>
-        <kml:Point>
-          <kml:coordinates>-94.59335262975837,31.703313751020886,0</kml:coordinates>
-        </kml:Point>
-        <kml:Polygon>
-          <kml:outerBoundaryIs>
-            <kml:LinearRing>
-              <kml:coordinates>-94.59289921484562,31.702392324360666,0 -94.59302066473647,31.7023897236691,0 -94.59373948971826,31.70240566123693,0 -94.59380848531778,31.704219098777546,0 -94.59296958897431,31.704242424170953,0 -94.59289921484562,31.702392324360666,0</kml:coordinates>
-            </kml:LinearRing>
-          </kml:outerBoundaryIs>
-        </kml:Polygon>
-      </kml:MultiGeometry>
-    </kml:Placemark>
-    <kml:Placemark>
+      <kml:Placemark>
+        <kml:name>108-25-0023 - 1239 HAPPY LAND ROAD_CANCELED</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.59335262975837,31.703313751020886,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.59289921484562,31.702392324360666,0 -94.59302066473647,31.7023897236691,0 -94.59373948971826,31.70240566123693,0 -94.59380848531778,31.704219098777546,0 -94.59296958897431,31.704242424170953,0 -94.59289921484562,31.702392324360666,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-25-0024 - 640 CR 835</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
@@ -557,56 +557,56 @@
           </kml:Polygon>
         </kml:MultiGeometry>
       </kml:Placemark>
-	  <kml:Placemark>
-		<kml:name>108-25-0026 - 437 Derek Dr</kml:name>
-		<kml:styleUrl>#Submitted_rollover</kml:styleUrl>
-		<kml:MultiGeometry>
-			<kml:Point>
-				<kml:coordinates>-94.81809793787411,31.36961495312871,0</kml:coordinates>
-			</kml:Point>
-			<kml:Polygon>
-				<kml:outerBoundaryIs>
-					<kml:LinearRing>
-						<kml:coordinates>
+      <kml:Placemark>
+        <kml:name>108-25-0026 - 437 Derek Dr</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.81809793787411,31.36961495312871,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>
 							-94.8183606375644,31.36920904937121,0 -94.81835286339928,31.37002449003525,0 -94.81783523594879,31.37002085630923,0 -94.81784301453735,31.36920541567659,0 -94.8183606375644,31.36920904937121,0 
 						</kml:coordinates>
-					</kml:LinearRing>
-				</kml:outerBoundaryIs>
-			</kml:Polygon>
-		</kml:MultiGeometry>
-	  </kml:Placemark>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
       <kml:Placemark>
-      <kml:name>108-25-0027 - 184 NORTH 2ND ST</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
-      <kml:MultiGeometry>
-        <kml:Point>
-          <kml:coordinates>-94.42563113217986,31.156923848915373,0</kml:coordinates>
-        </kml:Point>
-        <kml:Polygon>
-          <kml:outerBoundaryIs>
-            <kml:LinearRing>
-              <kml:coordinates>-94.42535489610009,31.157041083026765,0 -94.42535460878683,31.156806328621155,0 -94.42586923411838,31.156797361028598,0 -94.42586906133386,31.15695876346654,0 -94.42597744800355,31.156956874519175,0 -94.42597706891247,31.15703024113496,0 -94.42535489610009,31.157041083026765,0</kml:coordinates>
-            </kml:LinearRing>
-          </kml:outerBoundaryIs>
-        </kml:Polygon>
-      </kml:MultiGeometry>
-    </kml:Placemark>
-    <kml:Placemark>
-      <kml:name>108-25-0028 - CR 146 26 ACRES</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
-      <kml:MultiGeometry>
-        <kml:Point>
-          <kml:coordinates>-94.66811177828757,31.835044728312365,0</kml:coordinates>
-        </kml:Point>
-        <kml:Polygon>
-          <kml:outerBoundaryIs>
-            <kml:LinearRing>
-              <kml:coordinates>-94.6671790230224,31.83735061545927,0 -94.665002780479,31.837358839960594,0 -94.66500482935047,31.83700973962753,0 -94.67031151877529,31.83198156604043,0 -94.67052138692743,31.832148454799018,0 -94.67106327810987,31.832845802442474,0 -94.6671790230224,31.83735061545927,0</kml:coordinates>
-            </kml:LinearRing>
-          </kml:outerBoundaryIs>
-        </kml:Polygon>
-      </kml:MultiGeometry>
-    </kml:Placemark>
+        <kml:name>108-25-0027 - 184 NORTH 2ND ST</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.42563113217986,31.156923848915373,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.42535489610009,31.157041083026765,0 -94.42535460878683,31.156806328621155,0 -94.42586923411838,31.156797361028598,0 -94.42586906133386,31.15695876346654,0 -94.42597744800355,31.156956874519175,0 -94.42597706891247,31.15703024113496,0 -94.42535489610009,31.157041083026765,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>108-25-0028 - CR 146 26 ACRES</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.66811177828757,31.835044728312365,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.6671790230224,31.83735061545927,0 -94.665002780479,31.837358839960594,0 -94.66500482935047,31.83700973962753,0 -94.67031151877529,31.83198156604043,0 -94.67052138692743,31.832148454799018,0 -94.67106327810987,31.832845802442474,0 -94.6671790230224,31.83735061545927,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0029 - 1921 GOLDSBERRY ST</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
@@ -2285,54 +2285,70 @@
           </kml:Polygon>
         </kml:MultiGeometry>
       </kml:Placemark>
-    <kml:Placemark>
-      <kml:name>108-26-0080 - 905 MOONBEAM</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
-      <kml:MultiGeometry>
-        <kml:Point>
-          <kml:coordinates>-94.19755540134328,31.80735634264645,0</kml:coordinates>
-        </kml:Point>
-        <kml:Polygon>
-          <kml:outerBoundaryIs>
-            <kml:LinearRing>
-              <kml:coordinates>-94.19742100042218,31.807570714935054,0 -94.19736889489045,31.80717099357347,0 -94.19768980165749,31.807141970200693,0 -94.19774190852421,31.80754169143853,0 -94.19742100042218,31.807570714935054,0</kml:coordinates>
-            </kml:LinearRing>
-          </kml:outerBoundaryIs>
-        </kml:Polygon>
-      </kml:MultiGeometry>
-    </kml:Placemark>
-    <kml:Placemark>
-      <kml:name>108-26-0081 - 259 OLD EWING RD</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
-      <kml:MultiGeometry>
-        <kml:Point>
-          <kml:coordinates>-94.59618675537111,31.340836789110085,0</kml:coordinates>
-        </kml:Point>
-        <kml:Polygon>
-          <kml:outerBoundaryIs>
-            <kml:LinearRing>
-              <kml:coordinates>-94.59617212746318,31.34118286026028,0 -94.59590685172127,31.34071271823518,0 -94.59608781581859,31.340530817503357,0 -94.59651033315019,31.340840988640423,0 -94.59626669974361,31.341088000902037,0 -94.59617212746318,31.34118286026028,0</kml:coordinates>
-            </kml:LinearRing>
-          </kml:outerBoundaryIs>
-        </kml:Polygon>
-      </kml:MultiGeometry>
-    </kml:Placemark>
-    <kml:Placemark>
-    <kml:name>108-26-0082 - 2026 TEXAS 87 S</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
-      <kml:MultiGeometry>
-        <kml:Point>
-          <kml:coordinates>-94.12057406717815,31.783723370744937,0</kml:coordinates>
-        </kml:Point>
-        <kml:Polygon>
-          <kml:outerBoundaryIs>
-            <kml:LinearRing>
-              <kml:coordinates>-94.1206419842033,31.784093882450197,0 -94.12007066336453,31.78379069742692,0 -94.1205061506829,31.78335285894993,0 -94.12107747027808,31.783656042115222,0 -94.1206419842033,31.784093882450197,0 -94.1206419842033,31.784093882450197,0</kml:coordinates>
-            </kml:LinearRing>
-          </kml:outerBoundaryIs>
-        </kml:Polygon>
-      </kml:MultiGeometry>
-    </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>108-26-0080 - 905 MOONBEAM</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.19755540134328,31.80735634264645,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.19742100042218,31.807570714935054,0 -94.19736889489045,31.80717099357347,0 -94.19768980165749,31.807141970200693,0 -94.19774190852421,31.80754169143853,0 -94.19742100042218,31.807570714935054,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>108-26-0081 - 259 OLD EWING RD</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.59618675537111,31.340836789110085,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.59617212746318,31.34118286026028,0 -94.59590685172127,31.34071271823518,0 -94.59608781581859,31.340530817503357,0 -94.59651033315019,31.340840988640423,0 -94.59626669974361,31.341088000902037,0 -94.59617212746318,31.34118286026028,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>108-26-0082 - 2026 TEXAS 87 S</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.12057406717815,31.783723370744937,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.1206419842033,31.784093882450197,0 -94.12007066336453,31.78379069742692,0 -94.1205061506829,31.78335285894993,0 -94.12107747027808,31.783656042115222,0 -94.1206419842033,31.784093882450197,0 -94.1206419842033,31.784093882450197,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
     </kml:Folder>
+    <kml:Placemark>
+      <kml:name>108-25-0030 - 2604 TWINOAKS DR</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.6360504209388,31.625797977615175,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.63578538211532,31.625698194673728,0 -94.63627020940768,31.625623132583552,0 -94.63632771077731,31.625894828176012,0 -94.635815929637,31.625971178440718,0 -94.63578538211532,31.625698194673728,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
   </kml:Document>
 </kml:kml>
