@@ -2478,5 +2478,21 @@
         </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-24-0040 - REEDY ST</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.67840146743256,31.59545234108224,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.67822080471377,31.595227827846387,0 -94.67865366606603,31.59528532881549,0 -94.67862276271221,31.595480421079134,0 -94.67861132438433,31.59547898731158,0 -94.67857745432414,31.59567694977179,0 -94.67815306300649,31.595623752574163,0 -94.67818693393059,31.59542579022134,0 -94.67822080471377,31.595227827846387,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
   </kml:Document>
 </kml:kml>
