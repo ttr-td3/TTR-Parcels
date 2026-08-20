@@ -557,7 +557,24 @@
           </kml:Polygon>
         </kml:MultiGeometry>
       </kml:Placemark>
-      <kml:Placemark>
+	  <kml:Placemark>
+		<kml:name>108-25-0026 - 437 Derek Dr</kml:name>
+		<kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+		<kml:MultiGeometry>
+			<kml:Point>
+				<kml:coordinates>-94.81809793787411,31.36961495312871,0</kml:coordinates>
+			</kml:Point>
+			<kml:Polygon>
+				<kml:outerBoundaryIs>
+					<kml:LinearRing>
+						<kml:coordinates>
+							-94.8183606375644,31.36920904937121,0 -94.81835286339928,31.37002449003525,0 -94.81783523594879,31.37002085630923,0 -94.81784301453735,31.36920541567659,0 -94.8183606375644,31.36920904937121,0 
+						</kml:coordinates>
+					</kml:LinearRing>
+				</kml:outerBoundaryIs>
+			</kml:Polygon>
+		</kml:MultiGeometry>
+	  </kml:Placemark>
       <kml:Placemark>
       <kml:name>108-25-0027 - 184 NORTH 2ND ST</kml:name>
       <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
@@ -2300,6 +2317,7 @@
         </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
+    <kml:Placemark>
     <kml:name>108-26-0082 - 2026 TEXAS 87 S</kml:name>
       <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
       <kml:MultiGeometry>
