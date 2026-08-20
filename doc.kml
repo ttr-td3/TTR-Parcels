@@ -834,8 +834,7 @@
           </kml:outerBoundaryIs>
         </kml:Polygon>
       </kml:MultiGeometry>
-    </kml:Placemark>
-      <kml:Placemark>
+      </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0037 - 216 220 MITCHELL ST</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
