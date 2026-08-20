@@ -2284,5 +2284,21 @@
         </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-25-0027 - 184 NORTH 2ND ST</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.42563113217986,31.156923848915373,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.42535489610009,31.157041083026765,0 -94.42535460878683,31.156806328621155,0 -94.42586923411838,31.156797361028598,0 -94.42586906133386,31.15695876346654,0 -94.42597744800355,31.156956874519175,0 -94.42597706891247,31.15703024113496,0 -94.42535489610009,31.157041083026765,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
   </kml:Document>
 </kml:kml>
