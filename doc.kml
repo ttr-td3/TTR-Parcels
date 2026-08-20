@@ -2462,5 +2462,21 @@
         </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-25-0036 - 1315 W SEALE ST</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.67884649537959,31.5955111631486,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.67862276271221,31.595480421079134,0 -94.67865366606603,31.59528532881549,0 -94.67911082575891,31.595342632029258,0 -94.67904374222242,31.59573539701343,0 -94.67857745432414,31.59567694977179,0 -94.67861132438433,31.595478987311566,0 -94.67862276271221,31.595480421079134,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
   </kml:Document>
 </kml:kml>
