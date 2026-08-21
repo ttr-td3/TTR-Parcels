@@ -45,7 +45,7 @@
     <kml:open>1</kml:open>
     <kml:Placemark>
       <kml:name>108-25-0001 - 890 FM 2112</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.51828349123556,31.624641776170293,0</kml:coordinates>
@@ -61,7 +61,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0002 - 261 CR 784</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.88786756867769,31.615060906616115,0</kml:coordinates>
@@ -77,7 +77,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0003 - 887 CR 1265</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.21763889779373,31.727977624198978,0</kml:coordinates>
@@ -93,7 +93,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0004 - 8200 W STATE HWY 7</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.74297341604529,31.547853165199193,0</kml:coordinates>
@@ -109,7 +109,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0005 - 860 SPRING CREEK DR</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.59618163679771,31.67203805001188,0</kml:coordinates>
@@ -127,7 +127,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0006 - 7013 NORTH ST</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.66298523585402,31.66947633029815,0</kml:coordinates>
@@ -145,7 +145,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0007 - 507 SOUTH ST</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.68000323700227,31.55876260543621,0</kml:coordinates>
@@ -163,7 +163,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0008 - 5207 SOUTH ST</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.68905154799228,31.61259245184967,0</kml:coordinates>
@@ -181,7 +181,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0009 - 138 COUNTY ROAD 765</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.7966332132269,31.56556190349767,0</kml:coordinates>
@@ -199,7 +199,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0012 - 832 CR 250</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.62558807117918,31.710625328117064,0</kml:coordinates>
@@ -215,7 +215,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0013 - 17808 US 59</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.57276750990302,31.76030067956083,0</kml:coordinates>
@@ -231,7 +231,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0014 - 2026 VIRGINIA</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.67531024527837,31.596899974487005,0</kml:coordinates>
@@ -247,7 +247,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0015 - 2102 VIRGINIA AVE</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.67558457693197,31.59691739063125,0</kml:coordinates>
@@ -263,7 +263,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0016 - 229 TRAVIS ST</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.65501913960513,31.630609241084038,0</kml:coordinates>
@@ -279,7 +279,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0018 - 146 Rock Creek</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.6290040405883,31.71900148668833,0</kml:coordinates>
@@ -297,7 +297,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0019 - DEERFIELD DR L5 B2</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.65064454767153,31.646595364621213,0</kml:coordinates>
@@ -313,7 +313,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0020 - CR 864</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.81023564605516,31.801407661474755,0</kml:coordinates>
@@ -329,7 +329,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0021 - 354 CR 785</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.88826616711135,31.624546534234252,0</kml:coordinates>
@@ -345,7 +345,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0022 - 4165 FM 415</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.40032567947098,31.82015282809188,0</kml:coordinates>
@@ -363,7 +363,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0023 - 1239 HAPPY LAND ROAD_CANCELED</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.59335262975837,31.703313751020886,0</kml:coordinates>
@@ -379,7 +379,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0024 - 640 CR 835</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.76245852107299,31.73147356688813,0</kml:coordinates>
@@ -397,7 +397,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0025 - CR 489 SMYRNA RD</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.34326921834604,31.36660719016315,0</kml:coordinates>
@@ -415,7 +415,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0026 - 437 Derek Dr</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.81809793787411,31.36961495312871,0</kml:coordinates>
@@ -433,7 +433,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0027 - 184 NORTH 2ND ST</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.42563113217986,31.156923848915373,0</kml:coordinates>
@@ -449,7 +449,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0028 - CR 146 26 ACRES</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.66811177828757,31.835044728312365,0</kml:coordinates>
@@ -465,7 +465,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0029 - 1921 GOLDSBERRY ST</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.66014619805624,31.587105485879867,0</kml:coordinates>
@@ -481,7 +481,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0030 - 2604 TWINOAKS DR</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.6360504209388,31.625797977615175,0</kml:coordinates>
@@ -497,7 +497,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0031 - OLD TYLER RD LOT 1</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.66969946279336,31.627188650406946,0</kml:coordinates>
@@ -513,7 +513,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0031 - OLD TYLER RD LOT 2</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.66944848304209,31.626928953239368,0</kml:coordinates>
@@ -529,7 +529,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0031 - OLD TYLER RD LOT 3</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.66934016819621,31.626554697282142,0</kml:coordinates>
@@ -545,7 +545,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0031 - OLD TYLER RD LOT 4</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.66915883536988,31.62677915029876,0</kml:coordinates>
@@ -561,7 +561,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0031 - OLD TYLER RD LOT 5</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.66985002199024,31.62755566628791,0</kml:coordinates>
@@ -577,7 +577,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0031 - OLD TYLER RD LOT 6</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.67014788067895,31.627404668207188,0</kml:coordinates>
@@ -593,7 +593,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0032 - FM 3228</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.63362836649945,31.54215646171345,0</kml:coordinates>
@@ -611,7 +611,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0033 - FULGHAM SUBDIVISION</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.64709229553529,31.594168737168868,0</kml:coordinates>
@@ -627,7 +627,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0034 - 500 HOLLY CIRCLE</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.36746274136094,31.294872824383557,0</kml:coordinates>
@@ -643,7 +643,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0035 - CR 3260 TITUS CO</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.92104116674612,33.26547881367951,0</kml:coordinates>
@@ -661,7 +661,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0036 - 1315 W SEALE ST</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.67884649537959,31.5955111631486,0</kml:coordinates>
@@ -677,7 +677,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0037 - 216 220 MITCHELL ST</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.65462246929656,31.62506956750821,0</kml:coordinates>
@@ -695,7 +695,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0038 - 304 LENWOOD DR</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.66570111873312,31.584266872128374,0</kml:coordinates>
@@ -711,7 +711,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0039 - 917 CIRCLE DR</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.70713838657089,31.35257850679633,0</kml:coordinates>
@@ -729,7 +729,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0041 - 265 FM 343 E</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-95.12564747179698,31.78838707191464,0</kml:coordinates>
@@ -745,7 +745,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0042 - 2363 CR 4740</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-95.13010990128785,31.36231026122104,0</kml:coordinates>
@@ -761,7 +761,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0044 - 219 OKLAHOMA</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.56721617910993,31.27215135304587,0</kml:coordinates>
@@ -777,7 +777,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0046 - 3412 SWANN DR</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.68399950672519,31.57808486924278,0</kml:coordinates>
@@ -793,7 +793,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0054 - 295 PR 8557</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.09820527453803,31.16101771053072,0</kml:coordinates>
@@ -811,7 +811,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0061 - 2 LOTS ON POWERS ST</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.66902951513281,31.61044211168361,0</kml:coordinates>
@@ -838,7 +838,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0063 - 421 TOWNSEND DR</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.67025659373989,31.59154623759914,0</kml:coordinates>
@@ -856,7 +856,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0068 - 23311 FM 95 S</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.56737038235451,31.89398613889052,0</kml:coordinates>
@@ -874,7 +874,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0071 - 317 CR 4643</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.29152641475784,31.94255870606792,0</kml:coordinates>
@@ -892,7 +892,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0075 - 186 HWY 84 WEST</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.40935635182346,31.90304012050848,0</kml:coordinates>
@@ -910,7 +910,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0079 - 186 CR 721</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.74270036655825,31.55308406636616,0</kml:coordinates>
@@ -928,7 +928,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0081 - 1377 FM 3276</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.466047,31.576158,0</kml:coordinates>
@@ -946,7 +946,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0085 - 924 LAUREL LN</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.6744858449478,31.58321014408428,0</kml:coordinates>
@@ -964,7 +964,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0088 - 232 S SANDERS</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.66440860234488,31.6019971869074,0</kml:coordinates>
@@ -982,7 +982,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0091 - 1709 CR 4653</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.31846405745971,31.94861728604234,0</kml:coordinates>
@@ -1000,7 +1000,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0093 - STALLINGS DRIVE</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.67226170800431,31.65803171171925,0</kml:coordinates>
@@ -1018,7 +1018,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0098 - 600 CARROLL</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.73231599118388,31.31970758722118,0</kml:coordinates>
@@ -1036,7 +1036,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0099 - 1407 DURST</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.67002516539081,31.60193007454842,0</kml:coordinates>
@@ -1054,7 +1054,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0099 - 1407 DURST</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-95.23838170631687,31.06611623216786,0</kml:coordinates>
@@ -1072,7 +1072,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0103 - 835 MOCKINGBIRD ST</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.68172453599209,31.581069253457397,0</kml:coordinates>
@@ -1088,7 +1088,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0122 - CR 546</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.56788210633188,31.48646072698288,0</kml:coordinates>
@@ -1106,7 +1106,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0124 - 1009 MOCKINGBIRD ST</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.68409903843428,31.58158059553635,0</kml:coordinates>
@@ -1122,7 +1122,7 @@
     </kml:Placemark>
     <kml:Placemark>
       <kml:name>108-25-0150 - 617 Richie St</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.67351472232862,31.60988392640599,0</kml:coordinates>
