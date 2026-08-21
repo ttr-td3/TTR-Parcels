@@ -760,6 +760,22 @@
       </kml:MultiGeometry>
     </kml:Placemark>
     <kml:Placemark>
+      <kml:name>108-25-0044 - 219 OKLAHOMA</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.56721617910993,31.27215135304587,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.56713214128176,31.271831490161976,0 -94.56761219417825,31.271825518563947,0 -94.56761972068938,31.272375484231976,0 -94.56665856798857,31.272387438651858,0 -94.56665521332533,31.27211238508757,0 -94.56713556902473,31.272106411509174,0 -94.56713214128176,31.271831490161976,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
+    <kml:Placemark>
       <kml:name>108-25-0046 - 3412 SWANN DR</kml:name>
       <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
       <kml:MultiGeometry>
