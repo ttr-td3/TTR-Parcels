@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kml:kml xmlns:kml="http://www.opengis.net/kml/2.2">
   <kml:Document>
-    <kml:name>Styles.kml</kml:name>
+    <kml:name>styles.kml</kml:name>
     <!-- Styles -->
     <kml:Style id="Submitted">
       <kml:IconStyle>
