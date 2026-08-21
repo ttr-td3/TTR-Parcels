@@ -2508,5 +2508,21 @@
         </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-25-0103 - 835 MOCKINGBIRD ST</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.68172453599209,31.581069253457397,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.68190201654839,31.58138685313175,0 -94.68174305822875,31.581364456035978,0 -94.68142722573641,31.581313819395422,0 -94.68154694806826,31.580750823476563,0 -94.68202208279953,31.580823597002475,0 -94.68190201654839,31.58138685313175,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
   </kml:Document>
 </kml:kml>
