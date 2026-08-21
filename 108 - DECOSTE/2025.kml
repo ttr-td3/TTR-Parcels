@@ -760,6 +760,22 @@
       </kml:MultiGeometry>
     </kml:Placemark>
     <kml:Placemark>
+      <kml:name>108-25-0043 - HWY 94</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-95.32388583953175,30.97516426390201,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-95.32465871080916,30.974900017155107,0 -95.32432242023025,30.97513144665367,0 -95.32398718257755,30.97523138056787,0 -95.32327849852513,30.975822368676294,0 -95.32308796918944,30.975601535939383,0 -95.32348612269881,30.975220872554978,0 -95.32414319781178,30.974740692058525,0 -95.32442034726621,30.974575078759095,0 -95.32465871080916,30.974900017155107,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
+    <kml:Placemark>
       <kml:name>108-25-0044 - 219 OKLAHOMA</kml:name>
       <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
       <kml:MultiGeometry>
