@@ -1299,7 +1299,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0082 - 2026 TEXAS 87 S</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/Styles.kml#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.12057406717815,31.783723370744937,0</kml:coordinates>
