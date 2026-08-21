@@ -1,1 +1,135 @@
-
+<?xml version="1.0" encoding="utf-16"?>
+<kml:kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <kml:Document>
+    <kml:name>East Texas Projects.kmz</kml:name>
+    <atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1155"></atom:link>
+    <!-- Styles -->
+    <kml:Style id="Submitted">
+      <kml:IconStyle>
+        <kml:Icon></kml:Icon>
+      </kml:IconStyle>
+      <kml:LabelStyle>
+        <kml:scale>0</kml:scale>
+      </kml:LabelStyle>
+      <kml:LineStyle>
+        <kml:color>ff0000ff</kml:color>
+        <kml:width>2</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>4800ff00</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:Style id="Submitted_hlt">
+      <kml:IconStyle>
+        <kml:Icon></kml:Icon>
+      </kml:IconStyle>
+      <kml:LineStyle>
+        <kml:color>ff0000ff</kml:color>
+        <kml:width>4</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>4800ff00</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:StyleMap id="Submitted_rollover">
+      <kml:Pair>
+        <kml:key>normal</kml:key>
+        <kml:styleUrl>#Submitted</kml:styleUrl>
+      </kml:Pair>
+      <kml:Pair>
+        <kml:key>highlight</kml:key>
+        <kml:styleUrl>#Submitted_hlt</kml:styleUrl>
+      </kml:Pair>
+    </kml:StyleMap>
+    <!-- Main Folder -->
+    <kml:open>1</kml:open>
+      <kml:Placemark>
+        <kml:name>1080142 - 114 Rock Creek</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.62900258837287,31.71943978594614,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>
+									-94.62855893406038,31.71932661701608,0 -94.629448416591,31.71933304230285,0 -94.629446243742,31.71955295335933,0 -94.62855675915324,31.71954652805747,0 -94.62855893406038,31.71932661701608,0
+								</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>1080059 - 259 Rock Creek</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.62797520916492,31.71744228825445,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>
+									-94.62841396673417,31.71732846959459,0 -94.62841837707317,31.71754836059023,0 -94.62753512877846,31.71755600712535,0 -94.62753336092722,31.71733609325106,0 -94.62841396673417,31.71732846959459,0
+								</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>1080051 - 239 Rock Creek</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.62797784678646,31.71766215766144,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>
+									-94.62842098389024,31.71776826835125,0 -94.6275368966473,31.71777592214512,0 -94.62753512877846,31.71755600712535,0 -94.62841837707317,31.71754836059023,0 -94.62842098389024,31.71776826835125,0
+								</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>1080143 - 25 ACRES</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.29364502125037,31.93984880947259,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>
+								-94.29600610851824,31.93574218135155,0 -94.29444403653642,31.93786431964353,0 -94.2932620570618,31.93891276519379,0 -94.29370934173269,31.9401264398056,0 -94.29306442429366,31.94159661341505,0 -94.29429110335775,31.94281995335521,0 -94.2965417828058,31.93587680910747,0 -94.29600610851824,31.93574218135155,0
+							</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>1080168 - 1002 MOCKINGBIRD LN</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.68348636400587,31.582024911863755,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.68338587644246,31.58172924744811,0 -94.68370157951927,31.581779595005823,0 -94.6835868521936,31.582320576172847,0 -94.68327114738305,31.582270228344814,0 -94.68338587644246,31.58172924744811,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
+  </kml:Document>
+</kml:kml>
