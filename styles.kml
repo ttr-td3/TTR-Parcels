@@ -11,11 +11,11 @@
         <kml:scale>0</kml:scale>
       </kml:LabelStyle>
       <kml:LineStyle>
-        <kml:color>ffffffff</kml:color>
+        <kml:color>ffff0000</kml:color>
         <kml:width>3</kml:width>
       </kml:LineStyle>
       <kml:PolyStyle>
-        <kml:color>4800ff00</kml:color>
+        <kml:color>8000ff00</kml:color>
       </kml:PolyStyle>
     </kml:Style>
     <kml:Style id="Submitted_hlt">
@@ -23,11 +23,11 @@
         <kml:Icon></kml:Icon>
       </kml:IconStyle>
       <kml:LineStyle>
-        <kml:color>ff0000ff</kml:color>
+        <kml:color>ffff0000</kml:color>
         <kml:width>4</kml:width>
       </kml:LineStyle>
       <kml:PolyStyle>
-        <kml:color>4800ff00</kml:color>
+        <kml:color>8000ff00</kml:color>
       </kml:PolyStyle>
     </kml:Style>
     <kml:StyleMap id="Submitted_rollover">
