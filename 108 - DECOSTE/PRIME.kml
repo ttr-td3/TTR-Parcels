@@ -45,7 +45,7 @@
     <kml:open>1</kml:open>
       <kml:Placemark>
         <kml:name>1080142 - 114 Rock Creek</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.62900258837287,31.71943978594614,0</kml:coordinates>
@@ -63,7 +63,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080059 - 259 Rock Creek</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.62797520916492,31.71744228825445,0</kml:coordinates>
@@ -81,7 +81,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080051 - 239 Rock Creek</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.62797784678646,31.71766215766144,0</kml:coordinates>
@@ -99,7 +99,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080143 - 25 ACRES</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.29364502125037,31.93984880947259,0</kml:coordinates>
@@ -117,7 +117,7 @@
       </kml:Placemark>
     <kml:Placemark>
       <kml:name>1080168 - 1002 MOCKINGBIRD LN</kml:name>
-      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</kml:styleUrl>
       <kml:MultiGeometry>
         <kml:Point>
           <kml:coordinates>-94.68348636400587,31.582024911863755,0</kml:coordinates>
