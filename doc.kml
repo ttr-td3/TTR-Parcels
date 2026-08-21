@@ -2524,5 +2524,21 @@
         </kml:Polygon>
       </kml:MultiGeometry>
     </kml:Placemark>
+    <kml:Placemark>
+      <kml:name>108-25-0124 - 1009 MOCKINGBIRD ST</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.68409903843428,31.58158059553635,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.68434523318768,31.58176811160174,0 -94.6837955131306,31.581683889612645,0 -94.68385025849017,31.58139253731577,0 -94.68440578834083,31.58147903766221,0 -94.68434523318768,31.58176811160174,0 -94.68434523318768,31.58176811160174,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
   </kml:Document>
 </kml:kml>
