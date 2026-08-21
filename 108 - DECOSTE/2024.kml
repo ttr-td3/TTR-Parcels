@@ -45,7 +45,7 @@
     <kml:open>1</kml:open>
      <kml:Placemark>
         <kml:name>108-24-0040 - REEDY ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.67840146743256,31.59545234108224,0</kml:coordinates>
@@ -77,7 +77,7 @@
     </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-24-0055 - 130 Rock Creek</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.62900182842766,31.71922139747362,0</kml:coordinates>
@@ -95,7 +95,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-24-0061 - POWERS ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.67191716416312,31.61032714719547,0</kml:coordinates>
@@ -123,7 +123,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-24-0063 - WADE AND DOLPH  REPLAT</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/main/styles.kml#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.67126451509272,31.61209481052827,0</kml:coordinates>
