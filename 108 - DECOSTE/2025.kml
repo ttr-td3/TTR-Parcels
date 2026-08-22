@@ -824,6 +824,22 @@
       </kml:MultiGeometry>
     </kml:Placemark>
     <kml:Placemark>
+      <kml:name>108-25-0048 - CR969</kml:name>
+      <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Point>
+          <kml:coordinates>-94.83845155051526,31.83517290727127,0</kml:coordinates>
+        </kml:Point>
+        <kml:Polygon>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>-94.83777414290444,31.835800883127504,0 -94.83766447435842,31.835911010953897,0 -94.83730481594043,31.835649966728827,0 -94.83724260741675,31.834589987550267,0 -94.8394738781748,31.834494143699658,0 -94.83953947883877,31.83554750901817,0 -94.84018537020786,31.835517888175392,0 -94.8401288746628,31.835692910925797,0 -94.83777414290444,31.835800883127504,0 -94.83777414290444,31.835800883127504,0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
+    <kml:Placemark>
       <kml:name>108-25-0054 - 295 PR 8557</kml:name>
       <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
       <kml:MultiGeometry>
