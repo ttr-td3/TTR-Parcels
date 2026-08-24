@@ -45,7 +45,7 @@
     <kml:open>1</kml:open>
       <kml:Placemark>
         <kml:name>1080142 - 114 Rock Creek</kml:name>
-        <kml:styleUrl>https://ttr-td3.github.io/TTR-Parcels/Styles.kml#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>https://ttr-td3.github.io/TTR-Parcels/styles.kml#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.62900258837287,31.71943978594614,0</kml:coordinates>
