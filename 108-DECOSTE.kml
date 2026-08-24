@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-16"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>TTR Combined Survey Parcels</name>
+    <Folder>
+      <name>2026</name>
+      <description>Survey Parcels - 2026</description>
+      <Placemark>
+        <name>108-26-0072 - 7800 FM 417 W</name>
+        <styleUrl>#Submitted_rollover</styleUrl>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-94.15874550889154,31.70191442251847,0</coordinates>
+          </Point>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-94.15944139251802,31.70096830961636,0 -94.15925622010981,31.701005840676697,0 -94.15895136897522,31.70109359279693,0 -94.1586897226961,31.70119851607981,0 -94.15789488012815,31.701644890423694,0 -94.15790008702868,31.70260153243064,0 -94.15947230682356,31.70261333452384,0 -94.15944139251802,31.70096830961636,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
