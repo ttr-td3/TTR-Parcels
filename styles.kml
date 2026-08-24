@@ -11,7 +11,7 @@
         <kml:scale>0</kml:scale>
       </kml:LabelStyle>
       <kml:LineStyle>
-        <kml:color>ffff0000</kml:color>
+        <kml:color>ff0000ff</kml:color>
         <kml:width>3</kml:width>
       </kml:LineStyle>
       <kml:PolyStyle>
