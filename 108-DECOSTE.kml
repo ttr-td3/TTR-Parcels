@@ -1215,6 +1215,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-25-0056 - 2.610 AC CUSHING</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.84023345460322,31.834550235551834,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.83974374745084,31.834076339705135,0 -94.84101379330157,31.834089044683363,0 -94.84039355270755,31.835100982792177,0 -94.84037956016088,31.835135755668997,0 -94.83973276266909,31.835131151146605,0 -94.83974374745084,31.834076339705135,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-25-0061 - 2 LOTS ON POWERS ST</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
