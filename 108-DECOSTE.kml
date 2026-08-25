@@ -1247,6 +1247,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-25-0058 - 521 BORREGO SPRINGS</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.72387556730924,31.539380349704192,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.72244640588922,31.540081087561425,0 -94.72241277594212,31.53872268778939,0 -94.72530056227654,31.538671320869938,0 -94.72533033441805,31.540047129908043,0 -94.72244640588922,31.540081087561425,0 -94.72244640588922,31.540081087561425,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-25-0061 - 2 LOTS ON POWERS ST</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
