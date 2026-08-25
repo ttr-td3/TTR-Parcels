@@ -1084,7 +1084,23 @@
           </kml:Polygon>
         </kml:MultiGeometry>
       </kml:Placemark>
-       <kml:Placemark>
+      <kml:Placemark>
+        <kml:name>108-25-0048 - CR969</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.83867412099612,31.83469971653683,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.837952436316,31.83529064995689,0 -94.83783498529827,31.83539476455745,0 -94.83749496835253,31.835115195616027,0 -94.83750981890866,31.834053962425124,0 -94.83974374745081,31.83407633970512,0 -94.83973276266909,31.835131151146605,0 -94.8403795601609,31.835135755668908,0 -94.8403104691266,31.835307453391238,0 -94.837952436316,31.83529064995689,0 -94.837952436316,31.83529064995689,0 -94.837952436316,31.83529064995689,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-25-0050 - 5064 FM 415</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
