@@ -1103,7 +1103,7 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
-        <kml:name>108-25-0049 - 5064 FM 415</kml:name>
+        <kml:name>108-25-0050 - 5064 FM 415</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
@@ -1125,14 +1125,12 @@
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
-            <kml:coordinates>-94.09820527453803,31.16101771053072,0</kml:coordinates>
+            <kml:coordinates>-94.09817067784464,31.160839679424978,0</kml:coordinates>
           </kml:Point>
           <kml:Polygon>
             <kml:outerBoundaryIs>
               <kml:LinearRing>
-                <kml:coordinates>
-									-94.09908969774911,31.16001975418558,0 -94.09865605245281,31.15996838524797,0 -94.09844202316015,31.15996139043486,0 -94.09723557050916,31.16151179213144,0 -94.09749700439488,31.16212148668058,0 -94.09785148203952,31.162191930576,0 -94.09948017451158,31.16012092374667,0 -94.09908969774911,31.16001975418558,0 
-								</kml:coordinates>
+                <kml:coordinates>-94.09951172343959,31.160070479008667,0 -94.09762593193854,31.162008578532035,0 -94.09726892189168,31.16190198545269,0 -94.09711303088456,31.161256951292373,0 -94.09849943543641,31.159821020284166,0 -94.09870677802667,31.159857434367332,0 -94.09913813619572,31.15995812802605,0 -94.09951172343959,31.160070479008667,0</kml:coordinates>
               </kml:LinearRing>
             </kml:outerBoundaryIs>
           </kml:Polygon>
