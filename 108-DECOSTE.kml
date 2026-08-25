@@ -1121,6 +1121,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-25-0051 - CR 302 HUGHES PROPERTY</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.5291639371048,31.58850856267267,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.52996912206376,31.58879414809542,0 -94.52851279912781,31.588981526278367,0 -94.52837149094005,31.588176755436734,0 -94.52861569612807,31.588172532052464,0 -94.52984072982098,31.588062999702057,0 -94.52996912206376,31.58879414809542,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-25-0054 - 295 PR 8557</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
