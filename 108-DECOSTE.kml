@@ -1153,6 +1153,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-25-0053 - 420 EAST SEXTON</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.91978098013332,32.29169208736549,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.92002135133518,32.29190013343957,0 -94.91953604940218,32.291896260494866,0 -94.91954060999008,32.29148404082628,0 -94.92002590980586,32.291487913754985,0 -94.92002135133518,32.29190013343957,0 -94.92002135133518,32.29190013343957,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-25-0054 - 295 PR 8557</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
