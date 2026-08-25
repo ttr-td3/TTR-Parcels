@@ -1340,6 +1340,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-25-0064 - 324 EAST LAKEWOOD ST</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.6497185766716,31.635064326380782,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.64956273409621,31.63484667215602,0 -94.6496752557293,31.634856868418474,0 -94.64986858236232,31.634873236354068,0 -94.64987756533614,31.635266338720722,0 -94.64968490844973,31.63526954181145,0 -94.64957315235837,31.635270915154972,0 -94.64956273409621,31.63484667215602,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-25-0068 - 23311 FM 95 S</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
