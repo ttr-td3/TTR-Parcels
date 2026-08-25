@@ -1372,6 +1372,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-25-0066 - 218 CR 820</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.6998786364409,31.64541369858544,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.69954603543032,31.646059702914037,0 -94.6995157736612,31.644154586421205,0 -94.69965510623086,31.64434139290048,0 -94.69975008696169,31.644724980230333,0 -94.69984983821107,31.644965047715978,0 -94.70000819741591,31.645147281666556,0 -94.70033091986126,31.64530153798925,0 -94.7005416109754,31.64535394898378,0 -94.70014563513556,31.64609371963359,0 -94.69954603543032,31.646059702914037,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-25-0068 - 23311 FM 95 S</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
