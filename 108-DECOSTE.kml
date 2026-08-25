@@ -1504,6 +1504,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-25-0074 - 717 SARAH ANNE ST</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.6452961232168,31.639507616304126,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.64546281415655,31.63977455410403,0 -94.64546295739483,31.639800776998833,0 -94.6450773597387,31.639800641661154,0 -94.64506939776335,31.63922299303354,0 -94.6455212195519,31.639224759285064,0 -94.64553430223285,31.639310631108632,0 -94.64553207365061,31.63939763517943,0 -94.64552364132443,31.639412525242896,0 -94.64551867774473,31.639500406968615,0 -94.64551172873071,31.63977435856784,0 -94.64546281415655,31.63977455410403,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-25-0075 - 186 HWY 84 WEST</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
