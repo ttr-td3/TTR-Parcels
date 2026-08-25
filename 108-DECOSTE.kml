@@ -1622,6 +1622,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-25-0082 - 593 CR 1520</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.40134628771958,31.760997463106126,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.40418653594053,31.7626483781535,0 -94.39917581227802,31.76230372163563,0 -94.39943680658247,31.759136709611706,0 -94.40241901263258,31.759341388212434,0 -94.40339807465803,31.761150776340664,0 -94.40416794814114,31.762528455634474,0 -94.40418653594053,31.7626483781535,0 -94.40418653594053,31.7626483781535,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-25-0085 - 924 LAUREL LN</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
