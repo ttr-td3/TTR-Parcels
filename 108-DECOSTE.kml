@@ -1231,6 +1231,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-25-0057 - 311 WILLIAM THOMAS RD</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-95.37522185697681,30.8162096175083,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-95.3744968802519,30.814729900675736,0 -95.37593066604661,30.814701354253323,0 -95.37594226634013,30.817699662291357,0 -95.37450839166019,30.817706425674793,0 -95.37450656253488,30.815746147210625,0 -95.3744968802519,30.814729900675736,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-25-0061 - 2 LOTS ON POWERS ST</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
