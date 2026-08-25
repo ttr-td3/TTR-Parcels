@@ -1654,6 +1654,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-25-0083 - 587 CR 784 Residual</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.87829381227635,31.61504343894774,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.87549620507386,31.614744868287595,0 -94.87956131573922,31.614141513515275,0 -94.87960799809264,31.615168215773032,0 -94.88171658375597,31.614855271599662,0 -94.8817256312975,31.615127775369608,0 -94.87627455494354,31.61593671646335,0 -94.87618276725183,31.61584188754092,0 -94.87675744074902,31.615009028142403,0 -94.87657712415364,31.614711491772375,0 -94.87581240007029,31.614841777712524,0 -94.87553563599934,31.614972076462244,0 -94.87549620507386,31.614744868287595,0 -94.87549620507386,31.614744868287595,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-25-0085 - 924 LAUREL LN</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
