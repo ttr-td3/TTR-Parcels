@@ -2118,6 +2118,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-25-0109 - 167 SNYDER ST</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-95.1365407639641,31.059319976859403,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-95.13674434164164,31.05956308539135,0 -95.13642790679042,31.05940136738466,0 -95.13641648943984,31.059417914751698,0 -95.13619346776682,31.05930391811738,0 -95.13635174522743,31.05907691766922,0 -95.13688869704764,31.059345823143396,0 -95.13674434164164,31.05956308539135,0 -95.13674434164164,31.05956308539135,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-25-0122 - CR 546</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
