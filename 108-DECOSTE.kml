@@ -2070,6 +2070,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-25-0106 - CR 489  SMYRNA RD upd</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.34321360866383,31.366596798338765,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.3411474607132,31.36655158282885,0 -94.34155677593667,31.367592003501297,0 -94.34534220735827,31.36708169417477,0 -94.34531952236506,31.365755543235636,0 -94.34099154646658,31.365985597883853,0 -94.3411474607132,31.36655158282885,0 -94.3411474607132,31.36655158282885,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-25-0122 - CR 546</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
