@@ -1854,6 +1854,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-25-0095 - 211 FR LEWIS RD</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.70130838583268,31.546548622646494,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.70228305770243,31.54744276605188,0 -94.70073689022851,31.54745691324112,0 -94.7007057898747,31.5472819382278,0 -94.70066671166143,31.547146661760536,0 -94.70060281304737,31.547003410023002,0 -94.70054238451702,31.546887209299523,0 -94.70033805633646,31.546555742463504,0 -94.70024856480353,31.54638734401817,0 -94.70011142532945,31.546101974139432,0 -94.69993776498114,31.54578208430422,0 -94.70226244704988,31.54576071457994,0 -94.70228299622141,31.547442499255215,0 -94.70228305770243,31.54744276605188,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-25-0098 - 600 CARROLL</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
