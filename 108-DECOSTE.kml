@@ -1988,6 +1988,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-25-0102 - 9816 APPLEBY SAND ROAD</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.60333246813833,31.713542233581528,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.6030646636093,31.713748979077838,0 -94.60303027952814,31.71337167193853,0 -94.60359712314882,31.713336576328437,0 -94.60363943185732,31.71370977174314,0 -94.6030646636093,31.713748979077838,0 -94.6030646636093,31.713748979077838,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-25-0103 - 835 MOCKINGBIRD ST</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
