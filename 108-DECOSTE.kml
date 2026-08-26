@@ -1972,6 +1972,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-25-0101 - 801 CR 835</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.77203939751762,31.732740535538333,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.77151869883001,31.733516489083538,0 -94.76985495631304,31.732132786191023,0 -94.7734631242582,31.73209044646463,0 -94.77348340745172,31.733497225610304,0 -94.77151869883001,31.733516489083538,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-25-0103 - 835 MOCKINGBIRD ST</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
