@@ -1838,6 +1838,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-25-0094 - 4002 NE STALLINGS</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.63177016601294,31.65076502715024,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.63205381724693,31.651782865888414,0 -94.63049717833043,31.651122279630574,0 -94.6315110877759,31.649719290438725,0 -94.63203400696713,31.649995245882952,0 -94.6330481592553,31.650406920264157,0 -94.63205381724693,31.651782865888414,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-25-0098 - 600 CARROLL</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
