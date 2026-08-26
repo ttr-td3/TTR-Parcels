@@ -1956,6 +1956,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-25-0100 - 716 LOCK ST</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.66912207175754,31.597355018028153,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.66939222819367,31.597480841416512,0 -94.66884740510471,31.597435609212756,0 -94.66885239602018,31.597230209444685,0 -94.66939421769888,31.597272859911776,0 -94.66939222819367,31.597480841416512,0 -94.66939222819367,31.597480841416512,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-25-0103 - 835 MOCKINGBIRD ST</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
