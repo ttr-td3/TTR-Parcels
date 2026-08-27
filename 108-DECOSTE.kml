@@ -2328,6 +2328,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-25-0123 - 15425 US 59 N</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.60187054264898,31.736576326022163,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.60155924100079,31.736560737211427,0 -94.60182490925807,31.736262329904395,0 -94.6021972233946,31.736631049986485,0 -94.60192851945325,31.736850911990484,0 -94.60179074023168,31.736786139815457,0 -94.60155924100079,31.736560737211427,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-25-0124 - 1009 MOCKINGBIRD ST</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
