@@ -2378,6 +2378,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-25-0126 - 323 S CHURCH ST</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.6540188550418,31.600499880471148,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.65416181532625,31.600627488109083,0 -94.65383837192535,31.60051278882751,0 -94.6539070580887,31.60035555131344,0 -94.65420897144942,31.600522248815597,0 -94.65416181862966,31.60062749116963,0 -94.65416181532625,31.600627488109083,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-25-0150 - 617 Richie St</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
