@@ -2506,6 +2506,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-25-0134 - 3600 CR 797</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.89069069460213,31.65575019563121,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.88908129688826,31.659245130168234,0 -94.8872491072812,31.65945191377453,0 -94.88709664670756,31.65788443514679,0 -94.88662204808043,31.654891356626834,0 -94.88660898541099,31.654807259935396,0 -94.88712629703682,31.654048776941526,0 -94.88760488518703,31.65354972941815,0 -94.88795521125817,31.65328165331741,0 -94.88873335470248,31.652840546058258,0 -94.89009551864635,31.65231777054002,0 -94.89136756929763,31.652041670575464,0 -94.89222064528603,31.651906240813513,0 -94.89355212176021,31.651766641475106,0 -94.89490581178688,31.658243057474095,0 -94.88908129688826,31.659245130168234,0 -94.88908129688826,31.659245130168234,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-25-0150 - 617 Richie St</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
