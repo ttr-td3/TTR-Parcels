@@ -2,9 +2,5 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>90 - Property Surveys</name>
-    <Folder>
-      <name>Parcels</name>
-      <description>Survey Parcels</description>
-    </Folder>
   </Document>
 </kml>
