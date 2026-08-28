@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>TTR Projects</name>
+	<open>1</open>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1155"></atom:link>
+	<NetworkLink>
+		<name>108-Decoste</name>
+		<Link>
+			<href>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/refs/heads/main/108-DECOSTE.kml?</href>
+			<viewRefreshMode>onStop</viewRefreshMode>
+			<viewRefreshTime>2</viewRefreshTime>
+		</Link>
+	</NetworkLink>
+</Document>
+</kml>
