@@ -3,19 +3,18 @@
 <Document>
 	<name>TTR Projects</name>
 	<open>1</open>
-	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1155"></atom:link>
 	<NetworkLink>
-		<name>108-Decoste</name>
+		<name>90-Property Surveys</name>
 		<Link>
-			<href>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/refs/heads/main/108-DECOSTE.kml?</href>
+			<href>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/refs/heads/main/90-Propery%20Surveys.kml</href>
 			<viewRefreshMode>onStop</viewRefreshMode>
 			<viewRefreshTime>2</viewRefreshTime>
 		</Link>
 	</NetworkLink>
 	<NetworkLink>
-		<name>90-Property Surveys</name>
+		<name>108-Decoste</name>
 		<Link>
-			<href>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/refs/heads/main/90-Propery%20Surveys.kml</href>
+			<href>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/refs/heads/main/108-DECOSTE.kml?</href>
 			<viewRefreshMode>onStop</viewRefreshMode>
 			<viewRefreshTime>2</viewRefreshTime>
 		</Link>
