@@ -2538,6 +2538,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-25-0137 - 453 CR 301</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.5387158442827,31.60578180164217,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.53965179316567,31.605895766733628,0 -94.53943046079273,31.60637370500944,0 -94.53654349382872,31.606188845963942,0 -94.53651493740804,31.605270321494903,0 -94.5394233880148,31.605324792022852,0 -94.5409644505297,31.605306695306105,0 -94.5408850045308,31.60647367973161,0 -94.5408778334164,31.60648743581225,0 -94.53965179316567,31.605895766733628,0 -94.53965179316567,31.605895766733628,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-25-0150 - 617 Richie St</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
