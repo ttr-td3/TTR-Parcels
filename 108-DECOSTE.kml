@@ -2570,6 +2570,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-25-0140 - 2440 Northeast Stallings Dr</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.6130515336727,31.628574992441106,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.61281156610762,31.628921033813036,0 -94.61280269842926,31.628269227217576,0 -94.61326066694808,31.628268145806608,0 -94.61331351502746,31.62849215832373,0 -94.61333587683352,31.628812872658482,0 -94.61281156610762,31.628921033813036,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-25-0150 - 617 Richie St</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
