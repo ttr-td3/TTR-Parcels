@@ -48,6 +48,22 @@
     <Folder>
       <name>2025</name>
       <Placemark>
+        <name>9-25-0001 - Chester 39 Ac</name>
+        <styleUrl>#Submitted_rollover</styleUrl>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-94.5307966669306,30.934650449941717,0</coordinates>
+          </Point>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-94.52783991206485,30.93336209942443,0 -94.53377903628392,30.93337608550444,0 -94.53377057729489,30.935914085073858,0 -94.52783565234363,30.935949966626467,0 -94.52783991206485,30.93336209942443,0 -94.52783991206485,30.93336209942443,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
         <name>90-25-0003 - Timbergreen Subdivision</name>
         <styleUrl>#Submitted_rollover</styleUrl>
         <MultiGeometry>
