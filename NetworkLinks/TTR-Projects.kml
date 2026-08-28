@@ -3,10 +3,18 @@
 <Document>
 	<name>TTR Projects</name>
 	<open>1</open>
+<NetworkLink>
+		<name>51-Texas Gas Services</name>
+		<Link>
+			<href>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/refs/heads/main/51-Texas_Gas_Services.kml?</href>
+			<viewRefreshMode>onStop</viewRefreshMode>
+			<viewRefreshTime>2</viewRefreshTime>
+		</Link>
+	</NetworkLink>
 	<NetworkLink>
 		<name>90-Property Surveys</name>
 		<Link>
-			<href>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/refs/heads/main/90-Propery%20Surveys.kml</href>
+			<href>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/refs/heads/main/90-Propery%20Surveys.kml?</href>
 			<viewRefreshMode>onStop</viewRefreshMode>
 			<viewRefreshTime>2</viewRefreshTime>
 		</Link>
@@ -21,3 +29,4 @@
 	</NetworkLink>
 </Document>
 </kml>
+
