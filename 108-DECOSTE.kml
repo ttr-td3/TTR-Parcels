@@ -2634,6 +2634,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-25-0143 - 6758 HWY 147 S</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.16015812727505,31.42851332668133,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.16069655935601,31.428806449542286,0 -94.15953615354773,31.42880574963295,0 -94.1597162468813,31.428202225770104,0 -94.16068907049963,31.42820353827416,0 -94.16069655935601,31.428806449542286,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-25-0150 - 617 Richie St</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
