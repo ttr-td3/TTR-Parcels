@@ -2811,6 +2811,22 @@
           </kml:Polygon>
         </kml:MultiGeometry>
       </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>108-25-0156 -  4466 FM 1970</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.41881314858422,31.973794877287943,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.41571968955284,31.972051179255754,0 -94.41815108814637,31.97012204117688,0 -94.42123551034878,31.974319770871176,0 -94.42088575851366,31.977511520308504,0 -94.41917609741662,31.976952419700403,0 -94.41571968955284,31.972051179255754,0 -94.41571968955284,31.972051179255754,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
     </kml:Folder>
     <kml:Folder>
       <kml:name>2026</kml:name>
