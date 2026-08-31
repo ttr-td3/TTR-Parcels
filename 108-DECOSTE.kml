@@ -2795,6 +2795,22 @@
           </kml:Polygon>
         </kml:MultiGeometry>
       </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>108-25-0155 - 317 Shirey Lane</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.73870678516394,31.278893829367632,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.73887933921284,31.278704454169773,0 -94.7389825424443,31.278935475762783,0 -94.73853423043097,31.279083204327165,0 -94.738431028124,31.27885218238492,0 -94.73887933921284,31.278704454169773,0 -94.73887933921284,31.278704454169773,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
     </kml:Folder>
     <kml:Folder>
       <kml:name>2026</kml:name>
