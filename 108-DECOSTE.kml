@@ -4089,6 +4089,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-26-0073 - 628 NE STALLINGS</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.61999040579013,31.60124407180347,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.62019330881272,31.601352446209965,0 -94.61975421042041,31.601430334877517,0 -94.6197498950983,31.601147228927434,0 -94.62022758338102,31.601062494741228,0 -94.62025095881921,31.601159026120722,0 -94.62019330845948,31.601352443922462,0 -94.62019330881272,31.601352446209965,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-26-0074 - 140 CR 5084</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
