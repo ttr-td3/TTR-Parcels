@@ -2779,6 +2779,22 @@
           </kml:Polygon>
         </kml:MultiGeometry>
       </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>108-25-0154 - 1606 DURST</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.67216802019708,31.602671994528535,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.67237113745473,31.602166299274252,0 -94.67239372656233,31.6027428636386,0 -94.67237458554241,31.60274314750339,0 -94.67238558967199,31.60304696970379,0 -94.67185255744813,31.603056139111136,0 -94.67184011366321,31.602708045836827,0 -94.67209617762326,31.60270307676776,0 -94.67206429500584,31.602172926994644,0 -94.67237113745473,31.602166299274252,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
     </kml:Folder>
     <kml:Folder>
       <kml:name>2026</kml:name>
