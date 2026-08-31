@@ -4187,5 +4187,25 @@
         </kml:MultiGeometry>
       </kml:Placemark>
     </kml:Folder>
+    <kml:Folder>
+      <kml:name />
+      <kml:description>Survey Parcels - </kml:description>
+      <kml:Placemark>
+        <kml:name>108-25-0142 - 676 CR 213</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.61927602316534,31.669376512327766,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.61810590272299,31.669528695110635,0 -94.61810082879899,31.66911197840911,0 -94.62032196116738,31.669113830202456,0 -94.62029849595534,31.669506374814205,0 -94.62026387514815,31.669740136467066,0 -94.61810590272299,31.669528695110635,0 -94.61810590272299,31.669528695110635,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+    </kml:Folder>
   </kml:Document>
 </kml:kml>
