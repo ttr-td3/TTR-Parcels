@@ -2602,6 +2602,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-25-0141 - 4184 FM 343</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.71926518587557,31.66714355416394,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.71960619568374,31.66642457033618,0 -94.71954808062202,31.66701908107647,0 -94.72072587347422,31.667123672485527,0 -94.72067362497988,31.66765891768802,0 -94.7182691041301,31.667687032541927,0 -94.71824919166004,31.666440431649598,0 -94.71960619568374,31.66642457033618,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-25-0150 - 617 Richie St</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
