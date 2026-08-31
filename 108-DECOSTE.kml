@@ -2747,6 +2747,22 @@
           </kml:Polygon>
         </kml:MultiGeometry>
       </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>108-25-0151 - 693 CR 4700</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-95.15569168249313,31.37092616219216,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-95.16050971070507,31.370091429527694,0 -95.15893964265557,31.371334345342742,0 -95.15825223998638,31.3717091145091,0 -95.15789080016764,31.372235679570167,0 -95.15682505540734,31.37384084877072,0 -95.15155035209565,31.3712177935502,0 -95.15341027261046,31.368570900749088,0 -95.16050971070507,31.370091429527694,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
     </kml:Folder>
     <kml:Folder>
       <kml:name>2026</kml:name>
