@@ -30,7 +30,7 @@
         <kml:color>4800ff00</kml:color>
       </kml:PolyStyle>
     </kml:Style>
-    <kml:StyleMap id="Completed_rollover">
+    <kml:StyleMap id=l"Competed_rollover">
       <kml:Pair>
         <kml:key>normal</kml:key>
         <kml:styleUrl>#Completed</kml:styleUrl>
@@ -4646,7 +4646,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0085 - 3611 RAGUET ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Competed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.64857759658005,31.63749286089345,0</kml:coordinates>
