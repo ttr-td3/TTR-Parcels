@@ -3,7 +3,81 @@
   <kml:Document>
     <kml:name>108-Decoste</kml:name>
     <atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1155"></atom:link>
-    <kml:Style id="Submitted">
+    <kml:Style id="Completed">
+      <kml:IconStyle>
+        <kml:Icon></kml:Icon>
+      </kml:IconStyle>
+      <kml:LabelStyle>
+        <kml:scale>0</kml:scale>
+      </kml:LabelStyle>
+      <kml:LineStyle>
+        <kml:color>0000ffff</kml:color>
+        <kml:width>3</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>4800ff00</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:Style id="Completed_hlt">
+      <kml:IconStyle>
+        <kml:Icon></kml:Icon>
+      </kml:IconStyle>
+      <kml:LineStyle>
+        <kml:color>0000ffff</kml:color>
+        <kml:width>4</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>4800ff00</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:StyleMap id="Completed_rollover">
+      <kml:Pair>
+        <kml:key>normal</kml:key>
+        <kml:styleUrl>#Completed</kml:styleUrl>
+      </kml:Pair>
+      <kml:Pair>
+        <kml:key>highlight</kml:key>
+        <kml:styleUrl>#Completed_hlt</kml:styleUrl>
+      </kml:Pair>
+    </kml:StyleMap>
+<kml:Style id="InProgress">
+      <kml:IconStyle>
+        <kml:Icon></kml:Icon>
+      </kml:IconStyle>
+      <kml:LabelStyle>
+        <kml:scale>0</kml:scale>
+      </kml:LabelStyle>
+      <kml:LineStyle>
+        <kml:color>ffff0000</kml:color>
+        <kml:width>3</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>4800ffff</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:Style id="InProgress_hlt">
+      <kml:IconStyle>
+        <kml:Icon></kml:Icon>
+      </kml:IconStyle>
+      <kml:LineStyle>
+        <kml:color>ffff0000</kml:color>
+        <kml:width>4</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>4800ff00</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:StyleMap id="InProgress_rollover">
+      <kml:Pair>
+        <kml:key>normal</kml:key>
+        <kml:styleUrl>#InProgress</kml:styleUrl>
+      </kml:Pair>
+      <kml:Pair>
+        <kml:key>highlight</kml:key>
+        <kml:styleUrl>#InProgress_hlt</kml:styleUrl>
+      </kml:Pair>
+    </kml:StyleMap>
+<kml:Style id="NoPayment">
       <kml:IconStyle>
         <kml:Icon></kml:Icon>
       </kml:IconStyle>
@@ -15,10 +89,10 @@
         <kml:width>3</kml:width>
       </kml:LineStyle>
       <kml:PolyStyle>
-        <kml:color>4800ff00</kml:color>
+        <kml:color>48ff0000</kml:color>
       </kml:PolyStyle>
     </kml:Style>
-    <kml:Style id="Submitted_hlt">
+    <kml:Style id="NoPayment_hlt">
       <kml:IconStyle>
         <kml:Icon></kml:Icon>
       </kml:IconStyle>
@@ -30,21 +104,21 @@
         <kml:color>4800ff00</kml:color>
       </kml:PolyStyle>
     </kml:Style>
-    <kml:StyleMap id="Submitted_rollover">
+    <kml:StyleMap id="NoPayment_rollover">
       <kml:Pair>
         <kml:key>normal</kml:key>
-        <kml:styleUrl>#Submitted</kml:styleUrl>
+        <kml:styleUrl>#NoPayment</kml:styleUrl>
       </kml:Pair>
       <kml:Pair>
         <kml:key>highlight</kml:key>
-        <kml:styleUrl>#Submitted_hlt</kml:styleUrl>
+        <kml:styleUrl>#NoPayment_hlt</kml:styleUrl>
       </kml:Pair>
     </kml:StyleMap>
     <kml:Folder>
       <kml:name>PRIME</kml:name>
       <kml:Placemark>
         <kml:name>1080142 - 114 Rock Creek</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.62900258837287,31.71943978594614,0</kml:coordinates>
@@ -62,7 +136,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080059 - 259 Rock Creek</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.62797520916492,31.71744228825445,0</kml:coordinates>
@@ -80,7 +154,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080051 - 239 Rock Creek</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.62797784678646,31.71766215766144,0</kml:coordinates>
@@ -98,7 +172,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080143 - 25 ACRES</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.29364502125038,31.93984880947259,0</kml:coordinates>
@@ -116,7 +190,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080168 - 1002 MOCKINGBIRD LN</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.68348636400587,31.58202491186375,0</kml:coordinates>
@@ -137,7 +211,7 @@
       <kml:name>2024</kml:name>
       <kml:Placemark>
         <kml:name>108-24-0002 - 104 ACRES CUTOUTS</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-93.99090152782159,31.51731047323852,0</kml:coordinates>
@@ -153,7 +227,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-24-0003 - 890 NORTH CLARK ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.09790345777016,31.540927167676895,0</kml:coordinates>
@@ -169,7 +243,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-24-0004 - EDGAR RD</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.46790106515519,31.641274247069653,0</kml:coordinates>
@@ -185,7 +259,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-24-0005 - CR 872</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.84926320762773,31.76923369853692,0</kml:coordinates>
@@ -201,7 +275,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-24-0006 - CR 1170 PID 35423</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-95.09153368720305,31.446743643008087,0</kml:coordinates>
@@ -217,7 +291,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-24-0009 - 4899 FM 226</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.5319838430477,31.509955497179543,0</kml:coordinates>
@@ -233,7 +307,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-24-0010 - CR 213</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.61918828929124,31.66959770455698,0</kml:coordinates>
@@ -249,7 +323,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-24-0011 - 114 N MARCUS ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-95.07260383724542,31.65100044309061,0</kml:coordinates>
@@ -265,7 +339,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-24-0012 - 823 8th St</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.84291676966885,31.81475102355906,0</kml:coordinates>
@@ -281,7 +355,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-24-0013 - CR 338</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.41763054018591,31.563738387078153,0</kml:coordinates>
@@ -297,7 +371,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-24-0014 - 135 Walker Ave</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.65081513861584,31.602926720125566,0</kml:coordinates>
@@ -313,7 +387,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-24-0015 - 3901 OLD LUFKIN ROAD</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.6779909851645,31.570713883328562,0</kml:coordinates>
@@ -329,7 +403,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-24-0016 - 1701 CR 434</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.41403967811341,31.51315662990304,0</kml:coordinates>
@@ -345,7 +419,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-24-0017 - US 59 TENAHA</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.24481673769344,31.992764131054635,0</kml:coordinates>
@@ -361,7 +435,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-24-0018 - 424 FLORA</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.66500892950828,31.606640434745938,0</kml:coordinates>
@@ -377,7 +451,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-24-0019 - CREEKBEND</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.65783575362194,31.64646887905313,0</kml:coordinates>
@@ -392,8 +466,24 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-24-0020 - 554 JOHNSON ROAD</kml:name>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-95.16061343282949,30.684824553687626,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-95.16140370048029,30.684910972195997,0 -95.16130885441332,30.685005846109068,0 -95.16091448606983,30.68488272528881,0 -95.1604855024416,30.685275321993785,0 -95.1604469078739,30.685156827839744,0 -95.15995157347126,30.684858606033906,0 -95.16058081748656,30.684424384144588,0 -95.16140371458926,30.684910954028847,0 -95.16140370048029,30.684910972195997,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-24-0040 - REEDY ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.67840146743256,31.59545234108224,0</kml:coordinates>
@@ -411,7 +501,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-24-0042 - 916 MOCKINGBIRD</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.68236490876167,31.58181764072354,0</kml:coordinates>
@@ -429,7 +519,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-24-0055 - 130 Rock Creek</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.62900182842766,31.71922139747362,0</kml:coordinates>
@@ -447,7 +537,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-24-0061 - POWERS ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.67191716416312,31.61032714719547,0</kml:coordinates>
@@ -475,7 +565,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-24-0063 - WADE AND DOLPH  REPLAT</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.67126451509272,31.61209481052827,0</kml:coordinates>
@@ -496,7 +586,7 @@
       <kml:name>2025</kml:name>
       <kml:Placemark>
         <kml:name>108-25-0001 - 890 FM 2112</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.51828349123556,31.62464177617029,0</kml:coordinates>
@@ -514,7 +604,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0002 - 261 CR 784</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.88786756867771,31.61506090661612,0</kml:coordinates>
@@ -532,7 +622,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0003 - 887 CR 1265</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.21763889779373,31.72797762419897,0</kml:coordinates>
@@ -550,7 +640,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0004 - 8200 W STATE HWY 7</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.74297341604527,31.54785316519919,0</kml:coordinates>
@@ -568,7 +658,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0005 - 860 SPRING CREEK DR</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.59618163679771,31.67203805001188,0</kml:coordinates>
@@ -586,7 +676,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0006 - 7013 NORTH ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.66298523585402,31.66947633029815,0</kml:coordinates>
@@ -604,7 +694,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0007 - 507 SOUTH ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.68000323700227,31.55876260543621,0</kml:coordinates>
@@ -622,7 +712,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0008 - 5207 SOUTH ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.68905154799228,31.61259245184967,0</kml:coordinates>
@@ -640,7 +730,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0009 - 138 COUNTY ROAD 765</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.7966332132269,31.56556190349767,0</kml:coordinates>
@@ -658,7 +748,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0012 - 832 CR 250</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.62558807117918,31.71062532811706,0</kml:coordinates>
@@ -676,7 +766,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0013 - 17808 US 59</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.572767509903,31.76030067956083,0</kml:coordinates>
@@ -694,7 +784,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0014 - 2026 VIRGINIA</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.67531024527835,31.59689997448701,0</kml:coordinates>
@@ -712,7 +802,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0015 - 2102 VIRGINIA AVE</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.67558457693197,31.59691739063125,0</kml:coordinates>
@@ -730,7 +820,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0016 - 229 TRAVIS ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.65501913960512,31.63060924108404,0</kml:coordinates>
@@ -748,7 +838,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0018 - 146 Rock Creek</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.6290040405883,31.71900148668833,0</kml:coordinates>
@@ -766,7 +856,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0019 - DEERFIELD DR L5 B2</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.65064454767152,31.64659536462121,0</kml:coordinates>
@@ -784,7 +874,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0020 - CR 864</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.81023564605516,31.80140766147476,0</kml:coordinates>
@@ -802,7 +892,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0021 - 354 CR 785</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.88826616711135,31.62454653423425,0</kml:coordinates>
@@ -820,7 +910,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0022 - 4165 FM 415</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.40032567947098,31.82015282809188,0</kml:coordinates>
@@ -838,7 +928,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0023 - 1239 HAPPY LAND ROAD_CANCELED</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.59335262975837,31.70331375102089,0</kml:coordinates>
@@ -856,7 +946,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0024 - 640 CR 835</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.76245852107299,31.73147356688813,0</kml:coordinates>
@@ -874,7 +964,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0025 - CR 489 SMYRNA RD</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.34326921834604,31.36660719016315,0</kml:coordinates>
@@ -892,7 +982,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0026 - 437 Derek Dr</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.81809793787411,31.36961495312871,0</kml:coordinates>
@@ -910,7 +1000,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0027 - 184 NORTH 2ND ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.42563113217984,31.15692384891537,0</kml:coordinates>
@@ -928,7 +1018,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0028 - CR 146 26 ACRES</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.66811177828757,31.83504472831236,0</kml:coordinates>
@@ -946,7 +1036,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0029 - 1921 GOLDSBERRY ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.66014619805624,31.58710548587987,0</kml:coordinates>
@@ -964,7 +1054,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0030 - 2604 TWINOAKS DR</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.6360504209388,31.62579797761517,0</kml:coordinates>
@@ -982,7 +1072,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0031 - OLD TYLER RD LOT 1</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.66969946279336,31.62718865040695,0</kml:coordinates>
@@ -1000,7 +1090,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0031 - OLD TYLER RD LOT 2</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.66944848304209,31.62692895323936,0</kml:coordinates>
@@ -1018,7 +1108,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0031 - OLD TYLER RD LOT 3</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.66934016819623,31.62655469728213,0</kml:coordinates>
@@ -1036,7 +1126,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0031 - OLD TYLER RD LOT 4</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.66915883536988,31.62677915029876,0</kml:coordinates>
@@ -1054,7 +1144,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0031 - OLD TYLER RD LOT 5</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.66985002199024,31.62755566628791,0</kml:coordinates>
@@ -1072,7 +1162,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0031 - OLD TYLER RD LOT 6</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.67014788067897,31.62740466820719,0</kml:coordinates>
@@ -1090,7 +1180,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0032 - FM 3228</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.63362836649945,31.54215646171345,0</kml:coordinates>
@@ -1108,7 +1198,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0033 - FULGHAM SUBDIVISION</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.64709229553529,31.59416873716887,0</kml:coordinates>
@@ -1126,7 +1216,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0034 - 500 HOLLY CIRCLE</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.36746274136094,31.29487282438356,0</kml:coordinates>
@@ -1144,7 +1234,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0035 - CR 3260 TITUS CO</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.92104116674612,33.26547881367951,0</kml:coordinates>
@@ -1162,7 +1252,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0036 - 1315 W SEALE ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.67884649537959,31.5955111631486,0</kml:coordinates>
@@ -1180,7 +1270,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0037 - 216 220 MITCHELL ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.65462246929656,31.62506956750821,0</kml:coordinates>
@@ -1198,7 +1288,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0038 - 304 LENWOOD DR</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.66570111873311,31.58426687212837,0</kml:coordinates>
@@ -1216,7 +1306,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0039 - 917 CIRCLE DR</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.70713838657089,31.35257850679633,0</kml:coordinates>
@@ -1234,7 +1324,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0041 - 265 FM 343 E</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-95.12564747179698,31.78838707191464,0</kml:coordinates>
@@ -1252,7 +1342,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0042 - 2363 CR 4740</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-95.13010990128784,31.36231026122104,0</kml:coordinates>
@@ -1270,7 +1360,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0043 - HWY 94</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-95.32388583953175,30.97516426390201,0</kml:coordinates>
@@ -1288,7 +1378,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0044 - 219 OKLAHOMA</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.56721617910993,31.27215135304587,0</kml:coordinates>
@@ -1306,7 +1396,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0046 - 3412 SWANN DR</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.68399950672519,31.57808486924278,0</kml:coordinates>
@@ -1324,7 +1414,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0047 - 379 FM 698</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.68172610558763,31.70368887531535,0</kml:coordinates>
@@ -1342,7 +1432,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0048 - CR969</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.83867412099612,31.83469971653683,0</kml:coordinates>
@@ -1358,7 +1448,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0050 - 5064 FM 415</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.40916261112113,31.81073317043962,0</kml:coordinates>
@@ -1376,7 +1466,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0051 - CR 302 HUGHES PROPERTY</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.5291639371048,31.58850856267267,0</kml:coordinates>
@@ -1392,7 +1482,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0052 - 277 CR 208</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.64194244749261,31.6981419242031,0</kml:coordinates>
@@ -1408,7 +1498,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0053 - 420 EAST SEXTON</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.91978098013332,32.29169208736549,0</kml:coordinates>
@@ -1424,7 +1514,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0054 - 295 PR 8557</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.09817067784464,31.160839679424978,0</kml:coordinates>
@@ -1440,7 +1530,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0055 - 309 SHIREY LN</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.73846995315837,31.27846893290701,0</kml:coordinates>
@@ -1456,7 +1546,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0056 - 2.367 AC CUSHING</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.83713208678553,31.834260377228336,0</kml:coordinates>
@@ -1472,7 +1562,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0056 - 2.610 AC CUSHING</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.84023345460322,31.834550235551834,0</kml:coordinates>
@@ -1488,7 +1578,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0057 - 311 WILLIAM THOMAS RD</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-95.37522185697681,30.8162096175083,0</kml:coordinates>
@@ -1504,7 +1594,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0058 - 521 BORREGO SPRINGS</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.72387556730924,31.539380349704192,0</kml:coordinates>
@@ -1520,7 +1610,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0059 - 254 SPRING CREEK DR</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.606567248366,31.674035441666785,0</kml:coordinates>
@@ -1536,7 +1626,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0061 - 2 LOTS ON POWERS ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.66902951513281,31.61044211168361,0</kml:coordinates>
@@ -1563,7 +1653,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0062 - CR 3397 </kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-95.51531483853641,31.214886069666196,0</kml:coordinates>
@@ -1579,7 +1669,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0063 - 421 TOWNSEND DR</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.67025659373989,31.59154623759914,0</kml:coordinates>
@@ -1597,7 +1687,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0064 - 324 EAST LAKEWOOD ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.6497185766716,31.635064326380782,0</kml:coordinates>
@@ -1613,7 +1703,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0065 - 2 LOTS ON RAGURT</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.65238210806947,31.645828991586757,0</kml:coordinates>
@@ -1629,7 +1719,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0066 - 218 CR 820</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.6998786364409,31.64541369858544,0</kml:coordinates>
@@ -1645,7 +1735,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0067 - 210 CR 350</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.46879421610316,31.55722451787145,0</kml:coordinates>
@@ -1661,7 +1751,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0068 - 23311 FM 95 S</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.56737038235451,31.89398613889052,0</kml:coordinates>
@@ -1679,7 +1769,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0069 - 229 TRAVIS ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.65501913959423,31.630609241093026,0</kml:coordinates>
@@ -1695,7 +1785,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0070 - 9687 SH 7</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.46632950138971,31.62899125855512,0</kml:coordinates>
@@ -1711,7 +1801,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0071 - 317 CR 4643</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.29152641475784,31.94255870606792,0</kml:coordinates>
@@ -1729,7 +1819,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0072 - 783 ST CLAIR ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.71131623579697,31.41632126626824,0</kml:coordinates>
@@ -1745,7 +1835,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0073 - 143 FM 343</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.72715422326574,31.666828623425594,0</kml:coordinates>
@@ -1761,7 +1851,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0074 - 717 SARAH ANNE ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.6452961232168,31.639507616304126,0</kml:coordinates>
@@ -1777,7 +1867,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0075 - 186 HWY 84 WEST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.40935635182346,31.90304012050848,0</kml:coordinates>
@@ -1795,7 +1885,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0076 - CR 210</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.62144624313905,31.65970230690189,0</kml:coordinates>
@@ -1811,7 +1901,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0077 - CR 122</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.64474567050661,31.753841578972203,0</kml:coordinates>
@@ -1827,7 +1917,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0078 - OAK ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.84217572652008,31.812577118344592,0</kml:coordinates>
@@ -1843,7 +1933,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0079 - 186 CR 721</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.74270036655825,31.55308406636616,0</kml:coordinates>
@@ -1861,7 +1951,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0081 - 1377 FM 3276</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.46604700000002,31.576158,0</kml:coordinates>
@@ -1879,7 +1969,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0082 - 593 CR 1520</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.40134628771958,31.760997463106126,0</kml:coordinates>
@@ -1895,7 +1985,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0083 - 587 CR 784</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.87897911229827,31.613806224772482,0</kml:coordinates>
@@ -1911,7 +2001,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0083 - 587 CR 784 Residual</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.87829381227635,31.61504343894774,0</kml:coordinates>
@@ -1927,7 +2017,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0084 - 3103 AUSTIN WOODS</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.66467124684216,31.632502073089345,0</kml:coordinates>
@@ -1943,7 +2033,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0085 - 924 LAUREL LN</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.6744858449478,31.58321014408428,0</kml:coordinates>
@@ -1961,7 +2051,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0087 - 820 AND 822 OAKVIEW DR</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.64669986766654,31.656791617749192,0</kml:coordinates>
@@ -1977,7 +2067,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0088 - 232 S SANDERS</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.66440860234488,31.6019971869074,0</kml:coordinates>
@@ -1995,7 +2085,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0089 - 18986 SH 21 E</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.38800458876285,31.530922898402036,0</kml:coordinates>
@@ -2011,7 +2101,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0090 - CR 176</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.4367780509601,32.023240832548616,0</kml:coordinates>
@@ -2027,7 +2117,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0090 - CR 197</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.43551602364234,32.02328138497683,0</kml:coordinates>
@@ -2043,7 +2133,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0091 - 1709 CR 4653</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.31846405745971,31.94861728604234,0</kml:coordinates>
@@ -2061,7 +2151,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0092 - 2495 CR 1060</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.13197240672758,31.65152925169144,0</kml:coordinates>
@@ -2077,7 +2167,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0093 - STALLINGS DRIVE</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.67226170800431,31.65803171171925,0</kml:coordinates>
@@ -2095,7 +2185,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0094 - 4002 NE STALLINGS</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.63177016601294,31.65076502715024,0</kml:coordinates>
@@ -2111,7 +2201,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0095 - 211 FR LEWIS RD</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.70130838583268,31.546548622646494,0</kml:coordinates>
@@ -2127,7 +2217,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0096 - 1239 CR 765</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.79576153215774,31.56605510195312,0</kml:coordinates>
@@ -2143,7 +2233,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0097 - FM 1669  # 73272</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.54977002789545,31.311400256994734,0</kml:coordinates>
@@ -2159,7 +2249,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0098 - 600 CARROLL</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.73231599118388,31.31970758722118,0</kml:coordinates>
@@ -2177,7 +2267,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0099 - 1407 DURST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.67002516539081,31.60193007454842,0</kml:coordinates>
@@ -2195,7 +2285,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0099 - 1407 DURST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-95.23838170631687,31.06611623216786,0</kml:coordinates>
@@ -2213,7 +2303,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0100 - 716 LOCK ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.66912207175754,31.597355018028153,0</kml:coordinates>
@@ -2229,7 +2319,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0101 - 801 CR 835</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.77203939751762,31.732740535538333,0</kml:coordinates>
@@ -2245,7 +2335,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0102 - 9816 APPLEBY SAND ROAD</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.60333246813833,31.713542233581528,0</kml:coordinates>
@@ -2261,7 +2351,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0103 - 835 MOCKINGBIRD ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.68172453599209,31.5810692534574,0</kml:coordinates>
@@ -2279,7 +2369,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0104 - 3840 TED TROUT</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.79008109049146,31.327893597635253,0</kml:coordinates>
@@ -2295,7 +2385,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0105 - McMILLAN TRACT 1</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.66863233214335,31.66031197830206,0</kml:coordinates>
@@ -2311,7 +2401,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0105 - McMILLAN TRACT 2</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.66399170796188,31.65827220074251,0</kml:coordinates>
@@ -2327,7 +2417,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0106 - CR 489  SMYRNA RD upd</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.34321360866383,31.366596798338765,0</kml:coordinates>
@@ -2343,7 +2433,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0107 - Chicken Farm Remainder</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.2903642300947,31.939575152412356,0</kml:coordinates>
@@ -2359,7 +2449,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0108 - 4TH AND SNYDER</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-95.13605783044639,31.060154518986852,0</kml:coordinates>
@@ -2375,7 +2465,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0109 - 167 SNYDER ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-95.1365407639641,31.059319976859403,0</kml:coordinates>
@@ -2391,7 +2481,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0110 - 345 VETETO</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.54223253335176,31.368597093711617,0</kml:coordinates>
@@ -2407,7 +2497,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0111 - 131 LANCEWOOD</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.81715354578164,31.36431663232105,0</kml:coordinates>
@@ -2423,7 +2513,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0112 - CR 1548</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.40604780570722,31.6997741382381,0</kml:coordinates>
@@ -2439,7 +2529,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0114 - 607 CR 784</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.88110941232867,31.61424609499151,0</kml:coordinates>
@@ -2455,7 +2545,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0115 - 4714 EMERALD DR</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.65927030663637,31.64886892599355,0</kml:coordinates>
@@ -2471,7 +2561,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0116 - 5151 CR 3232</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.767583104902,31.872570897917303,0</kml:coordinates>
@@ -2487,7 +2577,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0117 - 3525 ASHCREEK CIRCLE</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.62533395682922,31.63490823889554,0</kml:coordinates>
@@ -2503,7 +2593,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0118 - 14774 SH 7 WEST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.25035523613654,31.7432145091917,0</kml:coordinates>
@@ -2519,7 +2609,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0119 - 4505 BOONTOWN ROAD</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-95.23790046905086,31.066235111314054,0</kml:coordinates>
@@ -2535,7 +2625,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0120 - 3077 HOMER ALTO RD</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.77047420323463,31.355474277309842,0</kml:coordinates>
@@ -2551,7 +2641,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0121 - 916 LOCK ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.66909051497143,31.593681112234098,0</kml:coordinates>
@@ -2567,7 +2657,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0122 - CR 546</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.56788210633188,31.48646072698288,0</kml:coordinates>
@@ -2585,7 +2675,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0123 - 15425 US 59 N</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.60187054264898,31.736576326022163,0</kml:coordinates>
@@ -2601,7 +2691,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0124 - 1009 MOCKINGBIRD ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.68409903843428,31.58158059553635,0</kml:coordinates>
@@ -2619,7 +2709,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0125 - 311 S CHURCH ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.6537459634167,31.600947649767225,0</kml:coordinates>
@@ -2635,7 +2725,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0126 - 323 S CHURCH ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.6540188550418,31.600499880471148,0</kml:coordinates>
@@ -2651,7 +2741,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0127 - 1431 CR 755</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.82215540537432,31.606150325395177,0</kml:coordinates>
@@ -2667,7 +2757,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0128 - 3953 FM 1669</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.55195522076633,31.31288354707272,0</kml:coordinates>
@@ -2683,7 +2773,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0129 - 4011 FM 1669</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.5524716201716,31.31246237362519,0</kml:coordinates>
@@ -2699,7 +2789,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0130 - 115 CR 9151</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.68970313472792,31.82194232419676,0</kml:coordinates>
@@ -2715,7 +2805,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0132 -  CR 3074</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.06470361758626,31.801634448284087,0</kml:coordinates>
@@ -2731,7 +2821,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0132 - CR 3074 East</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.06055153690413,31.79840110000876,0</kml:coordinates>
@@ -2747,7 +2837,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0133 - 2925 Lake Forrest Dr</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.68495158686248,31.580863249890744,0</kml:coordinates>
@@ -2763,7 +2853,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0134 - 3600 CR 797</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.89069069460213,31.65575019563121,0</kml:coordinates>
@@ -2779,7 +2869,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0135 - 251 WOODS VIEW DRIVE</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.79739954285617,31.62715991318743,0</kml:coordinates>
@@ -2795,7 +2885,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0137 - 453 CR 301</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.5387158442827,31.60578180164217,0</kml:coordinates>
@@ -2811,7 +2901,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0138 - 6163 SH 7 W</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.71608175369265,31.56039119843963,0</kml:coordinates>
@@ -2827,7 +2917,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0139 - 1904 East Austin St</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.62801725497432,31.628069774058485,0</kml:coordinates>
@@ -2843,7 +2933,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0140 - 2440 Northeast Stallings Dr</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.6130515336727,31.628574992441106,0</kml:coordinates>
@@ -2859,7 +2949,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0141 - 4184 FM 343</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.71926518587557,31.66714355416394,0</kml:coordinates>
@@ -2875,7 +2965,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0142 - 676 CR 213</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.61927602316534,31.669376512327766,0</kml:coordinates>
@@ -2891,7 +2981,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0143 - 6758 HWY 147 S</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.16015812727505,31.42851332668133,0</kml:coordinates>
@@ -2907,7 +2997,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0144 - 813 FOURTH ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.63763722516893,31.590045441273233,0</kml:coordinates>
@@ -2923,7 +3013,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0145 - 704 CR 198</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.61773124632693,31.668679841803478,0</kml:coordinates>
@@ -2939,7 +3029,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0146 - 206 WELCHS HILL TOP RD</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.64465188118002,31.248714611404257,0</kml:coordinates>
@@ -2955,7 +3045,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0148 - 143 CR 4256</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.34502287760506,31.890505182080236,0</kml:coordinates>
@@ -2971,7 +3061,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0149 - 202 E Parker</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.65241417724275,31.637788612674658,0</kml:coordinates>
@@ -2987,7 +3077,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0150 - 617 Richie St</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.67351472232862,31.60988392640599,0</kml:coordinates>
@@ -3005,7 +3095,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0151 - 693 CR 4700</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-95.15569168249313,31.37092616219216,0</kml:coordinates>
@@ -3021,7 +3111,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0153 - 204 CR 2031</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.56489415157137,31.60476539174996,0</kml:coordinates>
@@ -3037,7 +3127,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0154 - 1606 DURST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.67216802019708,31.602671994528535,0</kml:coordinates>
@@ -3053,7 +3143,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0155 - 317 Shirey Lane</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.73870678516394,31.278893829367632,0</kml:coordinates>
@@ -3069,7 +3159,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-25-0156 -  4466 FM 1970</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.41881314858422,31.973794877287943,0</kml:coordinates>
@@ -3088,7 +3178,7 @@
       <kml:name>2026</kml:name>
       <kml:Placemark>
         <kml:name>108-26-0001 - 7894 US 59 South</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.71765248306644,31.49291429677873,0</kml:coordinates>
@@ -3106,7 +3196,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0002 - 9868 FM 226</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.50650773696813,31.4449750841255,0</kml:coordinates>
@@ -3124,7 +3214,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0003 - 7671 FM 1818</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.66134212878045,31.16414051123995,0</kml:coordinates>
@@ -3142,7 +3232,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0004 - 1634 CR 4653</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.31673775041934,31.94633281388733,0</kml:coordinates>
@@ -3160,7 +3250,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0005 - CR 1170</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-95.08737747989649,31.45252444322118,0</kml:coordinates>
@@ -3178,7 +3268,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0006 - PR 8020</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.12040676735892,31.43039345527339,0</kml:coordinates>
@@ -3196,7 +3286,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0007 - 992 HERMAN NERREN</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.479737007156,31.32867121602522,0</kml:coordinates>
@@ -3214,7 +3304,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0008 - 309 CAMELOT CIRCLE</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.76237455404126,31.32830534694179,0</kml:coordinates>
@@ -3232,7 +3322,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0009 - COTTONWOOD TRAIL</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.44373516565769,31.27499937798912,0</kml:coordinates>
@@ -3250,7 +3340,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0010_0018 - CASON ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.64321687216501,31.61005361338142,0</kml:coordinates>
@@ -3268,7 +3358,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0011 - 360 CLEAR VIEW LN</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.59345328638761,31.67408151519231,0</kml:coordinates>
@@ -3286,7 +3376,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0012 - 646 CR 4925</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.37995265752882,31.96767496505884,0</kml:coordinates>
@@ -3304,7 +3394,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0013 - 623 CR 5021</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.68673646653028,31.53250791278254,0</kml:coordinates>
@@ -3322,7 +3412,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0014 - 170 CLEAR VIEW L14</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.59601250328416,31.67338622864854,0</kml:coordinates>
@@ -3340,7 +3430,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0014 - 170 CLEAR VIEW L15</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.59574696040112,31.67348762449987,0</kml:coordinates>
@@ -3358,7 +3448,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0015 - SE STALLINGS DR</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.62856854071644,31.57743195724385,0</kml:coordinates>
@@ -3376,7 +3466,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0016_0021 - LOCK AND FREDONIA</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.66884263012642,31.59068633116823,0</kml:coordinates>
@@ -3394,7 +3484,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0017 - 4261 CR 338</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.42136599712859,31.56944439487567,0</kml:coordinates>
@@ -3412,7 +3502,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0019 123 Main St</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-95.1916430211258,31.35863245981901,0</kml:coordinates>
@@ -3430,7 +3520,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0020 811 MARTINSVILLE RD</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.6443031882698,31.61114175524251,0</kml:coordinates>
@@ -3448,7 +3538,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0022 - 3600 CR 797</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.88776327839508,31.65521010987908,0</kml:coordinates>
@@ -3466,7 +3556,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0023 524 Burk</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.66518902150246,31.5982939024039,0</kml:coordinates>
@@ -3484,7 +3574,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0024 - 526 BURK</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.66520906014559,31.59815710743563,0</kml:coordinates>
@@ -3502,7 +3592,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0025 - 900 FM 3228 PINEFLAT</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.63794984152315,31.53882011122186,0</kml:coordinates>
@@ -3520,7 +3610,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0026 - 936 FM 3228 PINEFLAT</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.64252960008318,31.53759475886882,0</kml:coordinates>
@@ -3538,7 +3628,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0027 - 233 CR 2055</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.57636004895824,31.66804173039752,0</kml:coordinates>
@@ -3556,7 +3646,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0028 - CR 3177</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.07243999843948,31.90923523218893,0</kml:coordinates>
@@ -3574,7 +3664,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0029 - Mattie Lou Subdivision</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.91997916313802,33.26708990311091,0</kml:coordinates>
@@ -3592,7 +3682,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0030 922 WOMACK ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.91083033473119,31.23412262779095,0</kml:coordinates>
@@ -3610,7 +3700,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0031 - 449 HWY 96</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.20148611329743,31.82228272242209,0</kml:coordinates>
@@ -3628,7 +3718,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0032 - PR 401</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.20182013585583,31.82192338132153,0</kml:coordinates>
@@ -3646,7 +3736,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0034 - 720 FM 1970</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.42184274212164,31.92454062268185,0</kml:coordinates>
@@ -3664,7 +3754,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0035 - 160 Rock Creek</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.62901136911348,31.71878024247132,0</kml:coordinates>
@@ -3682,7 +3772,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0036 - 2340 FM 2112</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.52732532931665,31.64460450980223,0</kml:coordinates>
@@ -3700,7 +3790,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0037 - 480 FM 2026</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.20467431127418,31.82367819101559,0</kml:coordinates>
@@ -3718,7 +3808,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0038 -105 WATLINGTON ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.18918778829858,31.78466151684603,0</kml:coordinates>
@@ -3736,7 +3826,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0039 - 1005 LOGANSPORT</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.64744640801132,31.60983912217354,0</kml:coordinates>
@@ -3754,7 +3844,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0040 - 13579 US 84</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.89640910105948,31.8837643486481,0</kml:coordinates>
@@ -3772,7 +3862,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0041 - 1988 ALLENTOWN</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.77397460994646,31.4566407390504,0</kml:coordinates>
@@ -3790,7 +3880,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0042 - 104 CR 9151</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.68706915781284,31.81923907367971,0</kml:coordinates>
@@ -3808,7 +3898,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0043 - 782 CR 2011</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.61480625102497,31.69615225481333,0</kml:coordinates>
@@ -3826,7 +3916,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0045 - 205 EAST PECAN DR</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-95.46133518507678,31.3250650198982,0</kml:coordinates>
@@ -3844,7 +3934,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0046 - 3412 GRANITE HILL ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.619409594955,31.63011436018721,0</kml:coordinates>
@@ -3862,7 +3952,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0047 - CR 1548 100 AC</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.40554477186234,31.69932617111679,0</kml:coordinates>
@@ -3880,7 +3970,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0048 -  809 CR 1520</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.39812403004068,31.75840022693336,0</kml:coordinates>
@@ -3898,7 +3988,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0049 - 627 PARK PLACE</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.64508163449248,31.60717549588707,0</kml:coordinates>
@@ -3916,7 +4006,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0050 - 603 ENCHANTED FARMS</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.53868403362348,31.29490907403829,0</kml:coordinates>
@@ -3934,7 +4024,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0051 - 3920 PARKWOOD</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.61566123550787,31.65150639804802,0</kml:coordinates>
@@ -3952,7 +4042,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0052 - 308 TRAILWOOD DR</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-95.43416631691059,31.30815021181087,0</kml:coordinates>
@@ -3970,7 +4060,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0053 - 980 SPRING CREEK DR</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.59444118195688,31.67215836555523,0</kml:coordinates>
@@ -3988,7 +4078,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0054 - 3615 Press Rd</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.65798658192662,31.56971911907262,0</kml:coordinates>
@@ -4006,7 +4096,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0055 - 2616 GLEN HOLLOW</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.62828310008103,31.62599773767787,0</kml:coordinates>
@@ -4024,7 +4114,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0056 - 224 CR 4674</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.45977674211902,31.36219030915858,0</kml:coordinates>
@@ -4042,7 +4132,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0057 - 233 CR 4909</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.44336699590633,31.95110965833806,0</kml:coordinates>
@@ -4060,7 +4150,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0058 - 1142 CR 428</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.22905369133171,32.03664200344375,0</kml:coordinates>
@@ -4078,7 +4168,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0059 - 339 RAMSEY ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.72571662896453,31.40370556355463,0</kml:coordinates>
@@ -4096,7 +4186,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0059 - 343 RAMSEY ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.72620666640253,31.40328810719858,0</kml:coordinates>
@@ -4114,7 +4204,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0060 - 3443 HWY 59</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.44946541535786,31.87095018592261,0</kml:coordinates>
@@ -4132,7 +4222,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0061 - PR 5110</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-95.15599402106228,31.38357993654199,0</kml:coordinates>
@@ -4150,7 +4240,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0062 - 201 HOLLY CIRCLE</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.36892522703599,31.29520090017347,0</kml:coordinates>
@@ -4168,7 +4258,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0063 - 6175 FM 698</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.76475134919845,31.7265012331343,0</kml:coordinates>
@@ -4186,7 +4276,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0064 - 1757 CR 273</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.5217193209304,31.75392374967808,0</kml:coordinates>
@@ -4204,7 +4294,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0065 - 174 ROCK CREEK</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.62901802592924,31.71856051410476,0</kml:coordinates>
@@ -4222,7 +4312,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0066 - 120 TIMBER CROSSING DR</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.61088766760936,31.77727306805701,0</kml:coordinates>
@@ -4240,7 +4330,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0067 - 1444 CR 4810</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.46120400869289,31.89967918750205,0</kml:coordinates>
@@ -4258,7 +4348,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0068 - 416 HILL AVE</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.66982821061572,31.59077394113288,0</kml:coordinates>
@@ -4276,7 +4366,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0069 - 687 CR 4191</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.48289337139197,31.5520186534059,0</kml:coordinates>
@@ -4294,7 +4384,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0070 - 7610 CR 41511</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-95.91110565179932,32.14903333155951,0</kml:coordinates>
@@ -4312,7 +4402,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0071 - 427 CR 2092</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.65613642119955,31.68260337854879,0</kml:coordinates>
@@ -4330,7 +4420,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0072 - 7800 FM 417 W</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.15874550889154,31.70191442251847,0</kml:coordinates>
@@ -4346,7 +4436,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0073 - 628 NE STALLINGS</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.61999040579013,31.60124407180347,0</kml:coordinates>
@@ -4362,7 +4452,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0074 - 140 CR 5084</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.57241027154453,31.57973856612502,0</kml:coordinates>
@@ -4380,7 +4470,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0075 - 295 PR 8557 FINAL</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.09817067784464,31.160839679424978,0</kml:coordinates>
@@ -4396,7 +4486,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0076 - 2810 COLONIAL DR</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.6326767346473,31.62816505322213,0</kml:coordinates>
@@ -4414,7 +4504,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0077 - 373 CR 2125</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-95.48245465805651,31.3828823412593,0</kml:coordinates>
@@ -4432,7 +4522,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0078 - 5218 SH 7</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.1132281968095,31.86198385499226,0</kml:coordinates>
@@ -4450,7 +4540,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0079 - 1905 GOLDSBERRY ST</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.66002054935039,31.58765849466317,0</kml:coordinates>
@@ -4468,7 +4558,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0080 - 905 MOONBEAM</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.19755540134328,31.80735634264645,0</kml:coordinates>
@@ -4486,7 +4576,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0081 - 259 OLD EWING RD</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.59618675537111,31.34083678911009,0</kml:coordinates>
@@ -4504,7 +4594,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0082 - 2026 TEXAS 87 S</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.12057406717814,31.78372337074494,0</kml:coordinates>
@@ -4522,7 +4612,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0083 - 4622 LADY JENNIFER DR</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.61472662292901,31.64455950691708,0</kml:coordinates>
@@ -4540,7 +4630,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0084 - 357 CR 2092</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.65831032317143,31.682716230654233,0</kml:coordinates>
@@ -4556,7 +4646,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0086 - 4985 CR 411</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.52617740293931,31.510233930880236,0</kml:coordinates>
@@ -4565,26 +4655,6 @@
             <kml:outerBoundaryIs>
               <kml:LinearRing>
                 <kml:coordinates>-94.53012311894418,31.51056539872933,0 -94.52232284153216,31.51060814632506,0 -94.52210920296675,31.510456018713185,0 -94.52211894204862,31.51037769781652,0 -94.5221905761695,31.51029099073831,0 -94.52235887231821,31.51023463328547,0 -94.52292561978203,31.50992880266137,0 -94.5230345855624,31.509828619293557,0 -94.53011280915479,31.5099041490545,0 -94.53010822788933,31.509972766468664,0 -94.53012311894418,31.51056539872933,0</kml:coordinates>
-              </kml:LinearRing>
-            </kml:outerBoundaryIs>
-          </kml:Polygon>
-        </kml:MultiGeometry>
-      </kml:Placemark>
-    </kml:Folder>
-    <kml:Folder>
-      <kml:name>20204</kml:name>
-      <kml:description>Survey Parcels - 20204</kml:description>
-      <kml:Placemark>
-        <kml:name>108-24-0020 - 554 JOHNSON ROAD</kml:name>
-        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
-        <kml:MultiGeometry>
-          <kml:Point>
-            <kml:coordinates>-95.16061343282949,30.684824553687626,0</kml:coordinates>
-          </kml:Point>
-          <kml:Polygon>
-            <kml:outerBoundaryIs>
-              <kml:LinearRing>
-                <kml:coordinates>-95.16140370048029,30.684910972195997,0 -95.16130885441332,30.685005846109068,0 -95.16091448606983,30.68488272528881,0 -95.1604855024416,30.685275321993785,0 -95.1604469078739,30.685156827839744,0 -95.15995157347126,30.684858606033906,0 -95.16058081748656,30.684424384144588,0 -95.16140371458926,30.684910954028847,0 -95.16140370048029,30.684910972195997,0</kml:coordinates>
               </kml:LinearRing>
             </kml:outerBoundaryIs>
           </kml:Polygon>
