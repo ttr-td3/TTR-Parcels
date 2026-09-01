@@ -232,6 +232,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-24-0010 - CR 213</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.61918828929124,31.66959770455698,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.62000747574234,31.670258518300894,0 -94.61803839445002,31.669863821825352,0 -94.61805754250919,31.669095678435188,0 -94.6202770469194,31.669155875013153,0 -94.62023951673457,31.66954761950898,0 -94.6201689278737,31.66992980760522,0 -94.62005226427402,31.670183810468686,0 -94.62000747574234,31.670258518300894,0 -94.62000747574234,31.670258518300894,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-24-0040 - REEDY ST</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
