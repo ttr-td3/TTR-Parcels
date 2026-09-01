@@ -344,6 +344,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-24-0017 - US 59 TENAHA</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.24481673769344,31.992764131054635,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.24199009251728,31.991782323749995,0 -94.24369980454686,31.989915843571982,0 -94.24336111607873,31.9895421040498,0 -94.24452608371075,31.989313288412255,0 -94.24501704407258,31.989345767239815,0 -94.24640481399962,31.99092960748811,0 -94.24530036796092,31.991284302819768,0 -94.24848898924007,31.99425721771764,0 -94.24585606725952,31.995298396408003,0 -94.24417839116079,31.995964028171805,0 -94.24369646264824,31.99522048373629,0 -94.2427190088016,31.99348347918832,0 -94.24222273996946,31.992165807420562,0 -94.24199009251728,31.991782323749995,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-24-0040 - REEDY ST</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
