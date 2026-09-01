@@ -40,7 +40,7 @@
         <kml:styleUrl>#Completed_hlt</kml:styleUrl>
       </kml:Pair>
     </kml:StyleMap>
-<kml:Style id="InProgress">
+    <kml:Style id="InProgress">
       <kml:IconStyle>
         <kml:Icon></kml:Icon>
       </kml:IconStyle>
@@ -77,7 +77,7 @@
         <kml:styleUrl>#InProgress_hlt</kml:styleUrl>
       </kml:Pair>
     </kml:StyleMap>
-<kml:Style id="NoPayment">
+    <kml:Style id="NoPayment">
       <kml:IconStyle>
         <kml:Icon></kml:Icon>
       </kml:IconStyle>
@@ -4639,6 +4639,22 @@
             <kml:outerBoundaryIs>
               <kml:LinearRing>
                 <kml:coordinates>-94.65876051412575,31.68177914072928,0 -94.65878275754883,31.683645493628276,0 -94.65786015894571,31.683653529945403,0 -94.65783792872168,31.68178676456865,0 -94.6587605138784,31.681779130005854,0 -94.65876051412575,31.68177914072928,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>108-26-0085 - 3611 RAGUET ST</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.64857759658005,31.63749286089345,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.64884124652285,31.63732570642714,0 -94.64830813096795,31.63733168268646,0 -94.64832062330234,31.63766057238533,0 -94.64883951053962,31.63765647007496,0 -94.64884124652285,31.63732570642714,0</kml:coordinates>
               </kml:LinearRing>
             </kml:outerBoundaryIs>
           </kml:Polygon>
