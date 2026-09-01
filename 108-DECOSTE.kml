@@ -4420,7 +4420,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0072 - 7800 FM 417 W</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#NoPayment_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.15874550889154,31.70191442251847,0</kml:coordinates>
@@ -4436,7 +4436,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0073 - 628 NE STALLINGS</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#InProgress_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.61999040579013,31.60124407180347,0</kml:coordinates>
@@ -4452,7 +4452,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0074 - 140 CR 5084</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#NoPayment_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.57241027154453,31.57973856612502,0</kml:coordinates>
@@ -4470,7 +4470,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0075 - 295 PR 8557 FINAL</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#NoPayment_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.09817067784464,31.160839679424978,0</kml:coordinates>
@@ -4504,7 +4504,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0077 - 373 CR 2125</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#NoPayment_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-95.48245465805651,31.3828823412593,0</kml:coordinates>
@@ -4522,7 +4522,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0078 - 5218 SH 7</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#NoPayment_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.1132281968095,31.86198385499226,0</kml:coordinates>
@@ -4558,7 +4558,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0080 - 905 MOONBEAM</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#NoPayment_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.19755540134328,31.80735634264645,0</kml:coordinates>
@@ -4576,7 +4576,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0081 - 259 OLD EWING RD</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#NoPayment_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.59618675537111,31.34083678911009,0</kml:coordinates>
@@ -4594,7 +4594,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0082 - 2026 TEXAS 87 S</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#InProgress_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.12057406717814,31.78372337074494,0</kml:coordinates>
@@ -4612,7 +4612,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0083 - 4622 LADY JENNIFER DR</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#NoPayment_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.61472662292901,31.64455950691708,0</kml:coordinates>
@@ -4630,7 +4630,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0084 - 357 CR 2092</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#InProgress_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.65831032317143,31.682716230654233,0</kml:coordinates>
@@ -4646,7 +4646,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0085 - 3611 RAGUET ST</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#InProgress_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.64857759658005,31.63749286089345,0</kml:coordinates>
@@ -4662,7 +4662,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>108-26-0086 - 4985 CR 411</kml:name>
-        <kml:styleUrl>#NoPayment_rollover</kml:styleUrl>
+        <kml:styleUrl>#InProgress_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.52617740293931,31.510233930880236,0</kml:coordinates>
