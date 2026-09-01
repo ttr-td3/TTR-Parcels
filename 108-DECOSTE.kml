@@ -248,6 +248,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-24-0011 - 114 N MARCUS ST</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-95.07260383724542,31.65100044309061,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-95.07265178045836,31.650825127068977,0 -95.07276150815923,31.6510419175824,0 -95.07274743885398,31.651047023082047,0 -95.07277272558203,31.651097570407572,0 -95.07256036391544,31.651176926148498,0 -95.07242394491522,31.65091153539038,0 -95.0726517771846,31.65082512520698,0 -95.07265178045836,31.650825127068977,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-24-0040 - REEDY ST</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
