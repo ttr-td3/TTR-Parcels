@@ -360,6 +360,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-24-0018 - 424 FLORA</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.66500892950828,31.606640434745938,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.66539574091696,31.60656437473052,0 -94.66532265139055,31.606833566694725,0 -94.66475344379252,31.60684820177419,0 -94.6647413895411,31.606340666956445,0 -94.66497343727451,31.606323798398268,0 -94.6649300959363,31.60648545032455,0 -94.6649775473159,31.606487939048403,0 -94.66497889401832,31.60654251276547,0 -94.66539574091696,31.60656437473052,0 -94.66539574091696,31.60656437473052,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-24-0040 - REEDY ST</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
