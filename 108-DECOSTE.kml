@@ -30,7 +30,7 @@
         <kml:color>4800ff00</kml:color>
       </kml:PolyStyle>
     </kml:Style>
-    <kml:StyleMap id=l"Competed_rollover">
+    <kml:StyleMap id="Competed_rollover">
       <kml:Pair>
         <kml:key>normal</kml:key>
         <kml:styleUrl>#Completed</kml:styleUrl>
