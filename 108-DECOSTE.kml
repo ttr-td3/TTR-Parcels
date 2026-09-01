@@ -136,6 +136,22 @@
     <kml:Folder>
       <kml:name>2024</kml:name>
       <kml:Placemark>
+        <kml:name>108-24-0002 - 104 ACRES CUTOUTS</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-93.99090152782159,31.51731047323852,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-93.9909971620421,31.518263840722696,0 -93.99069626992826,31.516345796811652,0 -93.99092861513468,31.516987498788186,0 -93.9910316969875,31.517704277636575,0 -93.9909971620421,31.518263840722696,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-24-0040 - REEDY ST</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
