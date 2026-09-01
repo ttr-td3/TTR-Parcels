@@ -184,6 +184,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-24-0005 - CR 872</kml:name>
+        <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.84926320762773,31.76923369853692,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.8451133375062,31.770398214762153,0 -94.84510169333416,31.76840327887104,0 -94.85082191417902,31.76845196250511,0 -94.85083716225977,31.767844234224064,0 -94.85290489595062,31.76784692507735,0 -94.85287611016633,31.770241783899767,0 -94.85212362699747,31.77022574275079,0 -94.85213012828564,31.77081223078172,0 -94.84860924798224,31.769488251324923,0 -94.84760819031804,31.769336018288964,0 -94.84761701731456,31.770419543634237,0 -94.8451133375062,31.770398214762153,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-24-0040 - REEDY ST</kml:name>
         <kml:styleUrl>#Submitted_rollover</kml:styleUrl>
         <kml:MultiGeometry>
