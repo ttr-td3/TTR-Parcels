@@ -594,6 +594,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-24-0031 - 59 NORTH  #17035</kml:name>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.72457482645098,31.42587476403471,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.72519729461627,31.426846195126103,0 -94.72381900169937,31.425396299531876,0 -94.72470819247864,31.425381793478184,0 -94.72519729461627,31.426846195126103,0 -94.72519729461627,31.426846195126103,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-24-0040 - REEDY ST</kml:name>
         <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
