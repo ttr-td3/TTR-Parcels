@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-16"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>164-Blazer Building</name>
+    <name>164-BlazerBuilding</name>
   <kml:Style id="Completed">
       <kml:IconStyle>
         <kml:Icon></kml:Icon>
