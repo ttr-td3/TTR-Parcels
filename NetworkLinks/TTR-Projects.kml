@@ -4,7 +4,7 @@
 	<name>TTR Projects</name>
 	<open>1</open>
 <NetworkLink>
-		<name>51-Texas Gas Services</name>
+		<name>51 - Texas Gas Services</name>
 		<Link>
 			<href>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/refs/heads/main/51-Texas_Gas_Services.kml?</href>
 			<viewRefreshMode>onStop</viewRefreshMode>
@@ -12,7 +12,7 @@
 		</Link>
 	</NetworkLink>
 	<NetworkLink>
-		<name>90-Property Surveys</name>
+		<name>90 - Property Surveys</name>
 		<Link>
 			<href>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/refs/heads/main/90-Propery%20Surveys.kml?</href>
 			<viewRefreshMode>onStop</viewRefreshMode>
@@ -20,7 +20,7 @@
 		</Link>
 	</NetworkLink>
 	<NetworkLink>
-		<name>108-Decoste</name>
+		<name>108 - Decoste</name>
 		<Link>
 			<href>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/refs/heads/main/108-DECOSTE.kml?</href>
 			<viewRefreshMode>onStop</viewRefreshMode>
@@ -28,7 +28,7 @@
 		</Link>
 	</NetworkLink>
 	<NetworkLink>
-		<name>108-Decoste</name>
+		<name>164 - Blazer Building</name>
 		<Link>
 			<href>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/refs/heads/main/164-BlazerBuilding.kml?</href>
 			<viewRefreshMode>onStop</viewRefreshMode>
