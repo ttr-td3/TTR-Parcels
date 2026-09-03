@@ -658,6 +658,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-24-0036 - CR 507 SMITH RD</kml:name>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.5956545632545,31.57712507948744,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.59545019596442,31.57726847405252,0 -94.59561924130489,31.576940919206713,0 -94.59579573254452,31.57693697613012,0 -94.5957681432879,31.577286830539176,0 -94.59545019596442,31.57726847405252,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-24-0040 - REEDY ST</kml:name>
         <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
