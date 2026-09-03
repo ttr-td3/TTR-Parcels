@@ -27,6 +27,14 @@
 			<viewRefreshTime>2</viewRefreshTime>
 		</Link>
 	</NetworkLink>
+	<NetworkLink>
+		<name>108-Decoste</name>
+		<Link>
+			<href>https://raw.githubusercontent.com/ttr-td3/TTR-Parcels/refs/heads/main/164-BlazerBuilding.kml?</href>
+			<viewRefreshMode>onStop</viewRefreshMode>
+			<viewRefreshTime>2</viewRefreshTime>
+		</Link>
+	</NetworkLink>
 </Document>
 </kml>
 
