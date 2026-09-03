@@ -514,6 +514,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-24-0025 - 3951 HARLEY GOLDEN RD</kml:name>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.54502699383788,31.366495285236148,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.54446316788805,31.366007799661915,0 -94.54510831771967,31.365898485270375,0 -94.54558528983347,31.36692293676871,0 -94.54496549292028,31.367135910887406,0 -94.54446316788805,31.366007799661915,0 -94.54446316788805,31.366007799661915,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-24-0026 - 821 NORTH ST</kml:name>
         <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
