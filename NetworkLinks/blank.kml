@@ -2,43 +2,117 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>NAME</name>
-    <Style id="Submitted">
-      <IconStyle>
-        <Icon></Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-      <LineStyle>
-        <color>ff0000ff</color>
-        <width>3</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>4800ff00</color>
-      </PolyStyle>
-    </Style>
-    <Style id="Submitted_hlt">
-      <IconStyle>
-        <Icon></Icon>
-      </IconStyle>
-      <LineStyle>
-        <color>ff0000ff</color>
-        <width>4</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>4800ff00</color>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="Submitted_rollover">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#Submitted</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#Submitted_hlt</styleUrl>
-      </Pair>
-    </StyleMap>
+  <kml:Style id="Completed">
+      <kml:IconStyle>
+        <kml:Icon></kml:Icon>
+      </kml:IconStyle>
+      <kml:LabelStyle>
+        <kml:scale>0</kml:scale>
+      </kml:LabelStyle>
+      <kml:LineStyle>
+        <kml:color>ff00ff00</kml:color>
+        <kml:width>3</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>4800ff00</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:Style id="Completed_hlt">
+      <kml:IconStyle>
+        <kml:Icon></kml:Icon>
+      </kml:IconStyle>
+      <kml:LineStyle>
+        <kml:color>ff00ff00</kml:color>
+        <kml:width>4</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>4800ff00</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:StyleMap id="Completed_rollover">
+      <kml:Pair>
+        <kml:key>normal</kml:key>
+        <kml:styleUrl>#Completed</kml:styleUrl>
+      </kml:Pair>
+      <kml:Pair>
+        <kml:key>highlight</kml:key>
+        <kml:styleUrl>#Completed_hlt</kml:styleUrl>
+      </kml:Pair>
+    </kml:StyleMap>
+    <kml:Style id="InProgress">
+      <kml:IconStyle>
+        <kml:Icon></kml:Icon>
+      </kml:IconStyle>
+      <kml:LabelStyle>
+        <kml:scale>0</kml:scale>
+      </kml:LabelStyle>
+      <kml:LineStyle>
+        <kml:color>ffff0000</kml:color>
+        <kml:width>3</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>4800ffff</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:Style id="InProgress_hlt">
+      <kml:IconStyle>
+        <kml:Icon></kml:Icon>
+      </kml:IconStyle>
+      <kml:LineStyle>
+        <kml:color>ffff0000</kml:color>
+        <kml:width>4</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>4800ff00</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:StyleMap id="InProgress_rollover">
+      <kml:Pair>
+        <kml:key>normal</kml:key>
+        <kml:styleUrl>#InProgress</kml:styleUrl>
+      </kml:Pair>
+      <kml:Pair>
+        <kml:key>highlight</kml:key>
+        <kml:styleUrl>#InProgress_hlt</kml:styleUrl>
+      </kml:Pair>
+    </kml:StyleMap>
+    <kml:Style id="NoPayment">
+      <kml:IconStyle>
+        <kml:Icon></kml:Icon>
+      </kml:IconStyle>
+      <kml:LabelStyle>
+        <kml:scale>0</kml:scale>
+      </kml:LabelStyle>
+      <kml:LineStyle>
+        <kml:color>ff0000ff</kml:color>
+        <kml:width>3</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>48ff0000</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:Style id="NoPayment_hlt">
+      <kml:IconStyle>
+        <kml:Icon></kml:Icon>
+      </kml:IconStyle>
+      <kml:LineStyle>
+        <kml:color>ff0000ff</kml:color>
+        <kml:width>4</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>4800ff00</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:StyleMap id="NoPayment_rollover">
+      <kml:Pair>
+        <kml:key>normal</kml:key>
+        <kml:styleUrl>#NoPayment</kml:styleUrl>
+      </kml:Pair>
+      <kml:Pair>
+        <kml:key>highlight</kml:key>
+        <kml:styleUrl>#NoPayment_hlt</kml:styleUrl>
+      </kml:Pair>
+    </kml:StyleMap>
     <Folder>
       <name>PRIME</name>
     </Folder>
