@@ -297,6 +297,22 @@
           </kml:Polygon>
         </kml:MultiGeometry>
       </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>164-25-0012 - Cedar Grove Multi-Family</kml:name>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-97.40382922507365,30.36305824928428,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-97.4024152859029,30.364051940454623,0 -97.40281471810817,30.36338134331802,0 -97.4032237043599,30.362671594628534,0 -97.40368652212298,30.36188840032959,0 -97.40522379191553,30.362626488495945,0 -97.40481242757471,30.363271977201872,0 -97.40437140356485,30.363559579659434,0 -97.4024152859029,30.364051940454623,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
     </kml:Folder>
     <kml:Folder>
       <kml:name>2026</kml:name>
