@@ -313,6 +313,22 @@
           </kml:Polygon>
         </kml:MultiGeometry>
       </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>164-25-0013 - Ariza Park Row</kml:name>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-95.6218467710732,29.788958205594096,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-95.62283057474865,29.78784990045497,0 -95.6228142890195,29.790075740242795,0 -95.620876448122,29.790064446809815,0 -95.62086591052379,29.78921054370507,0 -95.62087594348236,29.787842866656,0 -95.6225230093351,29.787854176582957,0 -95.62283057474865,29.78784990045497,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
     </kml:Folder>
     <kml:Folder>
       <kml:name>2026</kml:name>
