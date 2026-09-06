@@ -348,6 +348,22 @@
           </kml:Polygon>
         </kml:MultiGeometry>
       </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>164-26-0015 - Hartwood at Windstone</kml:name>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-95.71836892968985,29.83023927781364,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-95.71784877829688,29.831038789499768,0 -95.71780125266277,29.8309973844004,0 -95.71779227415293,29.829321340024755,0 -95.71832842657707,29.829319363767336,0 -95.71832927922358,29.829484168307832,0 -95.71882927008396,29.82948209091757,0 -95.71883067261284,29.829757055471973,0 -95.71898015296856,29.82975643404081,0 -95.71898401303531,29.830430090848573,0 -95.71900608089399,29.830430000781455,0 -95.7190093705128,29.83104272149993,0 -95.71784877829688,29.831038789499768,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
     </kml:Folder>
   </kml:Document>
 </kml:kml>
