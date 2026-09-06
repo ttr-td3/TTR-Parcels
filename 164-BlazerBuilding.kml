@@ -150,6 +150,22 @@
           </kml:Polygon>
         </kml:MultiGeometry>
       </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>164-24-0003 - Becker Road Apt</kml:name>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-95.8008975887432,30.013184033590154,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-95.80160226113728,30.01394852030882,0 -95.80160170752588,30.013893526733828,0 -95.80213882836026,30.013889430390062,0 -95.8025838598091,30.0127866120246,0 -95.80116747364175,30.012253787907884,0 -95.80107234306459,30.012443484603878,0 -95.79948000779108,30.012454465558264,0 -95.79949485019009,30.013964571706477,0 -95.79949485019009,30.013964571706477,0 -95.80160226113728,30.01394852030882,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
     </kml:Folder>
     <kml:Folder>
       <kml:name>2025</kml:name>
