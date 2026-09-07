@@ -117,22 +117,6 @@
     <kml:Folder>
       <kml:name>PRIME</kml:name>
       <kml:Placemark>
-        <kml:name>1080144 - 763 SPRUCE AVE</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
-        <kml:MultiGeometry>
-          <kml:Point>
-            <kml:coordinates>-94.84195075125893,31.81519942315621,0</kml:coordinates>
-          </kml:Point>
-          <kml:Polygon>
-            <kml:outerBoundaryIs>
-              <kml:LinearRing>
-                <kml:coordinates>-94.84183783386396,31.815375054774453,0 -94.84182240242275,31.81503169744993,0 -94.84206366823643,31.815023791427652,0 -94.84207910054832,31.815367148724633,0 -94.84183783386396,31.815375054774453,0 -94.84183783386396,31.815375054774453,0</kml:coordinates>
-              </kml:LinearRing>
-            </kml:outerBoundaryIs>
-          </kml:Polygon>
-        </kml:MultiGeometry>
-      </kml:Placemark>
-      <kml:Placemark>
         <kml:name>1080051 - 239 Rock Creek</kml:name>
         <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
@@ -199,6 +183,22 @@
                 <kml:coordinates>
 									-94.29600610851824,31.93574218135155,0 -94.29444403653642,31.93786431964353,0 -94.2932620570618,31.93891276519379,0 -94.29370934173269,31.9401264398056,0 -94.29306442429366,31.94159661341505,0 -94.29429110335775,31.94281995335521,0 -94.2965417828058,31.93587680910747,0 -94.29600610851824,31.93574218135155,0 
 								</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>1080144 - 763 SPRUCE AVE</kml:name>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.84195075125893,31.81519942315621,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.84183783386396,31.815375054774453,0 -94.84182240242275,31.81503169744993,0 -94.84206366823643,31.815023791427652,0 -94.84207910054832,31.815367148724633,0 -94.84183783386396,31.815375054774453,0 -94.84183783386396,31.815375054774453,0</kml:coordinates>
               </kml:LinearRing>
             </kml:outerBoundaryIs>
           </kml:Polygon>
