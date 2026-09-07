@@ -1141,6 +1141,22 @@
           </kml:Polygon>
         </kml:MultiGeometry>
       </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>108-24-0165 - K MORGAN DR</kml:name>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.72131937224259,31.338086616590406,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.72154037168661,31.337820241480255,0 -94.72169156589761,31.338172797911426,0 -94.72109835198225,31.33835297489066,0 -94.72094717664676,31.338000457355758,0 -94.72154037168661,31.337820241480255,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
     </kml:Folder>
     <kml:Folder>
       <kml:name>2025</kml:name>
