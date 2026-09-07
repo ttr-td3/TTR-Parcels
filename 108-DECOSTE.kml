@@ -674,6 +674,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-24-0037 - 501 NORTHERN OAK</kml:name>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.68311434308434,31.568479115024694,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.68300388584942,31.56820439984827,0 -94.68290146514235,31.568705372500514,0 -94.68322480095682,31.56875383008258,0 -94.68332722001439,31.568252857182873,0 -94.68300388584942,31.56820439984827,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-24-0040 - REEDY ST</kml:name>
         <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
