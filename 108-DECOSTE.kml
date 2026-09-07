@@ -690,6 +690,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-24-0038 - 5341 US 59</kml:name>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.69208390372194,31.525317025802163,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.69088124038855,31.524984637260996,0 -94.6910554423392,31.5249387076991,0 -94.6922626413848,31.524824447600416,0 -94.6947117613101,31.524723163158214,0 -94.69471345270343,31.524878170032654,0 -94.69330819893047,31.52522929071418,0 -94.69190438633125,31.52601297655946,0 -94.69154952849495,31.52612511634348,0 -94.69110099562913,31.52600500502031,0 -94.69058685754523,31.525868845114225,0 -94.69032964239987,31.525388054918736,0 -94.69088124038855,31.524984637260996,0 -94.69088124038855,31.524984637260996,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-24-0040 - REEDY ST</kml:name>
         <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
