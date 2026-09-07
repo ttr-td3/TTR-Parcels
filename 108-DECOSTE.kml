@@ -1125,6 +1125,22 @@
           </kml:Polygon>
         </kml:MultiGeometry>
       </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>108-24-0064 - LOONEYVILLE RD PLAT</kml:name>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.67137311795466,31.613616717670507,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.67120796730015,31.613416780942444,0 -94.67152859443136,31.61340453081225,0 -94.67153762130935,31.61381696041561,0 -94.67121830198174,31.6138291605476,0 -94.67120796730015,31.613416780942444,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
     </kml:Folder>
     <kml:Folder>
       <kml:name>2025</kml:name>
