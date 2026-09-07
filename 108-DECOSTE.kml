@@ -740,6 +740,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-24-0041 - 560 SHORELINE DR</kml:name>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.83570400659845,31.612412618115318,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.83635513925874,31.61255360302922,0 -94.83512265284745,31.612551113796417,0 -94.83501643953304,31.612363326434796,0 -94.83501976940042,31.612275692546167,0 -94.8363564236558,31.612278392696627,0 -94.83635513925874,31.61255360302922,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-24-0042 - 916 MOCKINGBIRD</kml:name>
         <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
