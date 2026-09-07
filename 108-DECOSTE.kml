@@ -918,6 +918,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-24-0052 - 3414 ASHBURY COURT</kml:name>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.62302460475661,31.634860767347426,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.62319137857052,31.634935500781232,0 -94.62285721311989,31.634934482562144,0 -94.62285783120474,31.634786033697818,0 -94.62319199613387,31.634787051915175,0 -94.62319137857052,31.634935500781232,0 -94.62319137857052,31.634935500781232,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-24-0055 - 130 Rock Creek</kml:name>
         <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
