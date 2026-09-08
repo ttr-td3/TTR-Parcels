@@ -283,7 +283,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080008 - 8421 SH 7</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#Prime_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.48639949564654,31.620237036357565,0</kml:coordinates>
@@ -299,7 +299,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080009 - 210 AND 214 BLOUNT</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#Prime_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.6499133011791,31.624990683759226,0</kml:coordinates>
