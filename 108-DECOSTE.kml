@@ -165,6 +165,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>1080003 - Dolph and Powers</kml:name>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.66568972324455,31.610849473425926,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.66617146297214,31.611130737461217,0 -94.66515026905661,31.611179129132555,0 -94.66512635719099,31.610791418521156,0 -94.66541526707996,31.610777365720487,0 -94.66539818909604,31.61050541050528,0 -94.66613094663931,31.610476231287905,0 -94.66617146297214,31.611130737461217,0 -94.66617146297214,31.611130737461217,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>1080051 - 239 Rock Creek</kml:name>
         <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
