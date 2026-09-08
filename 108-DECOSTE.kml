@@ -234,6 +234,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>1080005 - 2603 PAUL AVENUE</kml:name>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.69385828992236,31.347622701380146,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.69435811535023,31.347518625661696,0 -94.69414059624835,31.347947448618854,0 -94.69328726448957,31.347902955488323,0 -94.69356848114488,31.347374153599077,0 -94.69394108053822,31.347236430279068,0 -94.69417906840621,31.34729524956032,0 -94.69435811535023,31.347518625661696,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>1080051 - 239 Rock Creek</kml:name>
         <kml:styleUrl>#Prime_rollover</kml:styleUrl>
         <kml:MultiGeometry>
