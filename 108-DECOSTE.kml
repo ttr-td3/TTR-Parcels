@@ -70,11 +70,11 @@
     <kml:StyleMap id="Prime_rollover">
       <kml:Pair>
         <kml:key>normal</kml:key>
-        <kml:styleUrl>#Completed</kml:styleUrl>
+        <kml:styleUrl>#Prime</kml:styleUrl>
       </kml:Pair>
       <kml:Pair>
         <kml:key>highlight</kml:key>
-        <kml:styleUrl>#Completed_hlt</kml:styleUrl>
+        <kml:styleUrl>#Prime_hlt</kml:styleUrl>
       </kml:Pair>
     </kml:StyleMap>
     <kml:Style id="InProgress">
@@ -219,7 +219,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080004 - 2004 CR 915</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#Prime_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.683531310091,31.76056324262938,0</kml:coordinates>
