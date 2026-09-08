@@ -40,6 +40,43 @@
         <kml:styleUrl>#Completed_hlt</kml:styleUrl>
       </kml:Pair>
     </kml:StyleMap>
+    <kml:Style id="Prime">
+      <kml:IconStyle>
+        <kml:Icon></kml:Icon>
+      </kml:IconStyle>
+      <kml:LabelStyle>
+        <kml:scale>0</kml:scale>
+      </kml:LabelStyle>
+      <kml:LineStyle>
+        <kml:color>ff2459ee</kml:color>
+        <kml:width>3</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>482459ee</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:Style id="Prime_hlt">
+      <kml:IconStyle>
+        <kml:Icon></kml:Icon>
+      </kml:IconStyle>
+      <kml:LineStyle>
+        <kml:color>ff2459ee</kml:color>
+        <kml:width>4</kml:width>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>482459ee</kml:color>
+      </kml:PolyStyle>
+    </kml:Style>
+    <kml:StyleMap id="Prime_rollover">
+      <kml:Pair>
+        <kml:key>normal</kml:key>
+        <kml:styleUrl>#Completed</kml:styleUrl>
+      </kml:Pair>
+      <kml:Pair>
+        <kml:key>highlight</kml:key>
+        <kml:styleUrl>#Completed_hlt</kml:styleUrl>
+      </kml:Pair>
+    </kml:StyleMap>
     <kml:Style id="InProgress">
       <kml:IconStyle>
         <kml:Icon></kml:Icon>
@@ -118,7 +155,7 @@
       <kml:name>PRIME</kml:name>
       <kml:Placemark>
         <kml:name>1080001 - MILO 1.66 ACRE TRACT I</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#Prime_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.69370562189025,31.758710203518916,0</kml:coordinates>
@@ -134,7 +171,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080001 - MILO 1.66 ACRE TRACT II</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#Prime_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.69331809969977,31.758713870047607,0</kml:coordinates>
@@ -150,7 +187,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080002 - LUPE 50 ACRES</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#Prime_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.65980617042909,31.75006498400239,0</kml:coordinates>
@@ -166,7 +203,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080003 - Dolph and Powers</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#Prime_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.66568972324455,31.610849473425926,0</kml:coordinates>
@@ -182,7 +219,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080051 - 239 Rock Creek</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#Prime_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.62797784678646,31.71766215766144,0</kml:coordinates>
@@ -200,7 +237,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080059 - 259 Rock Creek</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#Prime_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.62797520916492,31.71744228825445,0</kml:coordinates>
@@ -218,7 +255,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080142 - 114 Rock Creek</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#Prime_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.62900258837287,31.71943978594614,0</kml:coordinates>
@@ -236,7 +273,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080143 - 25 ACRES</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#Prime_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.29364502125038,31.93984880947259,0</kml:coordinates>
@@ -254,7 +291,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080144 - 763 SPRUCE AVE</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#Prime_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.84195075125893,31.81519942315621,0</kml:coordinates>
@@ -270,7 +307,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080168 - 1002 MOCKINGBIRD LN</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#Prime_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.68348636400587,31.58202491186375,0</kml:coordinates>
