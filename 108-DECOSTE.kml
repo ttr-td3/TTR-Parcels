@@ -235,7 +235,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080005 - 2603 PAUL AVENUE</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#Prime_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.69385828992236,31.347622701380146,0</kml:coordinates>
@@ -251,7 +251,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080006 - 3814 COLONIAL DRIVE</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#Prime_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.63251763253217,31.635447297296775,0</kml:coordinates>
