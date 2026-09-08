@@ -315,7 +315,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080010 - 663 CR 785</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#Prime_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.8841469114049,31.627616500580398,0</kml:coordinates>
@@ -331,7 +331,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080011 - OLD TYLER RD 7AC TOPO</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#Prime_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.66091331288263,31.612817617551162,0</kml:coordinates>
