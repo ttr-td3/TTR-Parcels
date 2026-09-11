@@ -383,7 +383,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080116 - Augusta Dr</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#Prime_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.7226394814894,31.277764272081935,0</kml:coordinates>
