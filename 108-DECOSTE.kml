@@ -394,6 +394,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>1080015 - 520 Burke St</kml:name>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.6651463160429,31.598562220754914,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.66495117105373,31.59848898303903,0 -94.66534590639424,31.59848947185487,0 -94.66532359565433,31.59863696898597,0 -94.66497051636918,31.598638942602836,0 -94.66495706932277,31.598564319517596,0 -94.66495117105373,31.59848898303903,0 -94.66495117105373,31.59848898303903,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>1080051 - 239 Rock Creek</kml:name>
         <kml:styleUrl>#Prime_rollover</kml:styleUrl>
         <kml:MultiGeometry>
