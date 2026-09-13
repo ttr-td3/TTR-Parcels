@@ -411,7 +411,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080016 - 2117 Sutton St</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#Prime_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.6373567860168,31.593077328561193,0</kml:coordinates>
@@ -427,7 +427,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080017 - 14409 FM 1818</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#Prime_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.55100576405579,31.181407492500437,0</kml:coordinates>
@@ -443,7 +443,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080018 - 6979 HWY 204</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#Prime_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.78163273402406,31.79235753845874,0</kml:coordinates>
@@ -459,7 +459,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080019 - Rayburn Circle</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#Prime_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.38102257675612,31.31535747959149,0</kml:coordinates>
