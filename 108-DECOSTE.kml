@@ -347,7 +347,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080012 - 266 Rock Creek</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#Prime_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.62902992092566,31.717241521871998,0</kml:coordinates>
@@ -363,7 +363,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080013 - 2079 Dead Man Road</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#Prime_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.43984583907468,31.21188058479252,0</kml:coordinates>
@@ -379,7 +379,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080014 - 4911 FM 2782</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#Prime_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.76749410092685,31.518720979812308,0</kml:coordinates>
@@ -395,7 +395,7 @@
       </kml:Placemark>
       <kml:Placemark>
         <kml:name>1080015 - 520 Burke St</kml:name>
-        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:styleUrl>#Prime_rollover</kml:styleUrl>
         <kml:MultiGeometry>
           <kml:Point>
             <kml:coordinates>-94.6651463160429,31.598562220754914,0</kml:coordinates>
