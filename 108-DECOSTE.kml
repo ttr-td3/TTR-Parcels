@@ -5642,6 +5642,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-26-0088 - 133 SNYDER ST</kml:name>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-95.13652331082909,31.05957669158257,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-95.1367442956645,31.059563061901564,0 -95.13661777171438,31.05975340478704,0 -95.13630191619397,31.059587863753173,0 -95.13641648944036,31.05941791475925,0 -95.13642790678858,31.059401367391036,0 -95.13674434166285,31.05956308536429,0 -95.1367442956645,31.059563061901564,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-26-0091 - 269 CR 157</kml:name>
         <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
