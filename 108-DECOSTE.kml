@@ -5658,6 +5658,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-26-0089 - 307 LAKE ST</kml:name>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.66339226180241,31.590350704373424,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.66367820768905,31.590476566350176,0 -94.66367112621228,31.590514573589044,0 -94.66306758679914,31.59043108655151,0 -94.6630747599838,31.59039309191539,0 -94.66311370002916,31.59018683530393,0 -94.66371664989285,31.5902702413239,0 -94.66367820768905,31.590476566350176,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-26-0091 - 269 CR 157</kml:name>
         <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
