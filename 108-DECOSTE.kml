@@ -5721,6 +5721,22 @@
           </kml:Polygon>
         </kml:MultiGeometry>
       </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>108-26-0093 - 137 DALLAS ST</kml:name>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.652835379444,31.647090645224974,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.65302948347413,31.647293770707037,0 -94.65264220489279,31.647299402782625,0 -94.6526418880783,31.646887506423862,0 -94.65302778978895,31.646881414399946,0 -94.65302948347413,31.647293770707037,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
     </kml:Folder>
   </kml:Document>
 </kml:kml>
