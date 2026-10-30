@@ -5769,6 +5769,22 @@
           </kml:Polygon>
         </kml:MultiGeometry>
       </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>108-26-0106 - 13995  HWY 59 N</kml:name>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.62654936851108,31.715630056029216,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.62607986460944,31.715211071921566,0 -94.62752435252197,31.715220924159553,0 -94.62750756068245,31.715979564640772,0 -94.62518386181944,31.71599104771344,0 -94.62562904047232,31.715593775668605,0 -94.62607984423634,31.715211090818258,0 -94.62607986460944,31.715211071921566,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
     </kml:Folder>
   </kml:Document>
 </kml:kml>
