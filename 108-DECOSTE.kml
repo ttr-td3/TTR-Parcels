@@ -5770,6 +5770,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-26-0101 - 412 CR 6108</kml:name>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-94.69545138107695,31.557458524059616,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-94.69508527656313,31.557553544281518,0 -94.69518604337965,31.55726370981534,0 -94.69581748485996,31.55736350280278,0 -94.69571671986019,31.557653337750004,0 -94.69508527656313,31.557553544281518,0 -94.69508527656313,31.557553544281518,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-26-0106 - 13995  HWY 59 N</kml:name>
         <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
