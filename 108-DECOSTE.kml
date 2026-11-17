@@ -5834,6 +5834,22 @@
         </kml:MultiGeometry>
       </kml:Placemark>
       <kml:Placemark>
+        <kml:name>108-26-0111 - 1275 CR 3095</kml:name>
+        <kml:styleUrl>#Completed_rollover</kml:styleUrl>
+        <kml:MultiGeometry>
+          <kml:Point>
+            <kml:coordinates>-95.63268690580585,31.264885127993313,0</kml:coordinates>
+          </kml:Point>
+          <kml:Polygon>
+            <kml:outerBoundaryIs>
+              <kml:LinearRing>
+                <kml:coordinates>-95.63473647874484,31.266580249237517,0 -95.63394653302656,31.267055721070825,0 -95.63064669467323,31.263201107039745,0 -95.63141455498155,31.26270223360412,0 -95.63473648453721,31.266580252079283,0 -95.63473647874484,31.266580249237517,0</kml:coordinates>
+              </kml:LinearRing>
+            </kml:outerBoundaryIs>
+          </kml:Polygon>
+        </kml:MultiGeometry>
+      </kml:Placemark>
+      <kml:Placemark>
         <kml:name>108-26-105 - 2623 LAWSON PARKWAY</kml:name>
         <kml:styleUrl>#Completed_rollover</kml:styleUrl>
         <kml:MultiGeometry>
